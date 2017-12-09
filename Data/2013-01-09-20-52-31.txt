@@ -1,0 +1,26 @@
+Reading 20000 events
+
+-------------------------------------------------------------------------------
+-------------- Truth ----------------------------------------------------------
+-------------------------------------------------------------------------------
+Number of events analysed: 20000
+Number of vertices analysed:  19000
+Number of Delta -> p gamma events:  18264
+Number of CC Delta -> p gamma events: 10138
+Number of NC Delta -> p gamma events: 8126
+Number of Delta -> p gamma events in the FGD: 5852
+Number of NC Delta -> p gamma events in the FGD: 2718
+Number of CC Delta -> p gamma events in the FGD: 3134
+
+-------------------------------------------------------------------------------
+-------------- Reconsruction --------------------------------------------------
+-------------------------------------------------------------------------------
+Number of events with a reconstructed PID: 18194
+PROTON TRACK CUT:
+Number of events with at least one reconstructed proton track: 6566
+Number of reconstructed proton tracks which was a true proton: 5374
+Number of reconstructed proton tracks where the proton track begins in the detector before all other tracks: 6566
+ECAL CLUSTER CUT
+Number of events with at least one Tracker ECal cluster: 16196
+Number of events with both a reconstructed proton track and at least one Tracker ECal cluster: 5592
+

@@ -1,0 +1,42 @@
+Before doing anything we need to set up the libraries and header files
+
+1) In the libraries module, the makeLibraries argument must be any oaAnalysis file in the
+production we are looking at. At the moment it points to my version of prod5_analysis.root.
+This just goes through the file, pulls out information on libraries and classes it needs
+from the T2K software, and builds a library called nd280.so in the nd280 directory.
+
+You should only have to do this once.
+
+> python libraries
+
+This will put a directory called nd280 in the directory which you run the libraries module
+from. This directory contains the header files for the all the classes in the T2K codebase
+that are needed to interpret the oaAnalysis files, as well as the relevant library : nd280.so
+
+This library needs to be loaded in example_analysis - in the line that contains
+
+libraries.load("/path/to/nd280.so")
+
+2) You also need to change an include line in RooTrackerTools.C
+
+Where it says
+
+#include "/path/to/ND__GRooTrackerVtx.h"
+
+You need to write the path to ND__GRooTrackerVtx.h in the nd280 directory in your particular
+working area
+
+.e.g. for my area
+
+#include "/storage/epp2/phseaj/exercise/forProjects/nd280/ND__GRooTrackerVtx.h"
+
+This will be different for you.
+===
+
+Once this is done you should be able to run example_analysis - go through it and work out
+what bit does what. The current code plots a histogram of the neutrino energy from all events
+in the file. One complication is that GRooTracker stores the event listing in a 2-D array
+(stdHep). Python doesn't know about 2-D arrays. For this reason we have a translation class
+called RooTrackerTools. This decodes each line of the event listing into a RooTrackerParticle
+object and returns a list of such particles.
+

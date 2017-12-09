@@ -1,0 +1,6 @@
+g++ c++File.cc -o  OutputObject `root-config --cflags` `root-config --libs`						Compiles c++ root code with correct flags.
+
+.x File && .U File																				Loads, executes then unloads file without having to quit root.
+
+source /storage/epp2/t2k/software/nd280w_setup.sh												Loads the ND280 software.
+nd280w_load v10r11p9

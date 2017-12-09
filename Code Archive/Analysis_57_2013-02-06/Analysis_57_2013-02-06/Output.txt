@@ -1,0 +1,250 @@
+Analysis_57_2013-02-06.py:340: RuntimeWarning: creating converter for unknown type "bool*"
+  for PID in This.Reconstructed_Global.PIDs:
+Analysis_57_2013-02-06.py:2041: RuntimeWarning: creating converter for unknown type "Bool_t*"
+  for Trajectory1 in TrueTrajectories:
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1580298, len=5706, fNbytes=0, fObjlen=0, trying to repair
+Error in <TBranchElement::GetBasket>: File: /storage/epp2/t2k/data/nd280/production005/C/mcp/genie/2010-11-water/magnet/beamb/anal/oa_gn_beam_91210007-0030_x2hl7mw6hgtw_anal_000_prod005magnet201011waterb-bsdv01.root at byte:0, branch:PIDs.Alternates, entry:47, badread=0, nerrors=1, basketnumber=1
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1580298, len=5706, fNbytes=0, fObjlen=0, trying to repair
+Error in <TBranchElement::GetBasket>: File: /storage/epp2/t2k/data/nd280/production005/C/mcp/genie/2010-11-water/magnet/beamb/anal/oa_gn_beam_91210007-0030_x2hl7mw6hgtw_anal_000_prod005magnet201011waterb-bsdv01.root at byte:0, branch:PIDs.Alternates, entry:48, badread=0, nerrors=2, basketnumber=1
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1580298, len=5706, fNbytes=0, fObjlen=0, trying to repair
+Error in <TBranchElement::GetBasket>: File: /storage/epp2/t2k/data/nd280/production005/C/mcp/genie/2010-11-water/magnet/beamb/anal/oa_gn_beam_91210007-0030_x2hl7mw6hgtw_anal_000_prod005magnet201011waterb-bsdv01.root at byte:0, branch:PIDs.Alternates, entry:49, badread=0, nerrors=3, basketnumber=1
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1580298, len=5706, fNbytes=0, fObjlen=0, trying to repair
+Error in <TBranchElement::GetBasket>: File: /storage/epp2/t2k/data/nd280/production005/C/mcp/genie/2010-11-water/magnet/beamb/anal/oa_gn_beam_91210007-0030_x2hl7mw6hgtw_anal_000_prod005magnet201011waterb-bsdv01.root at byte:0, branch:PIDs.Alternates, entry:50, badread=0, nerrors=4, basketnumber=1
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1580298, len=5706, fNbytes=0, fObjlen=0, trying to repair
+Error in <TBranchElement::GetBasket>: File: /storage/epp2/t2k/data/nd280/production005/C/mcp/genie/2010-11-water/magnet/beamb/anal/oa_gn_beam_91210007-0030_x2hl7mw6hgtw_anal_000_prod005magnet201011waterb-bsdv01.root at byte:0, branch:PIDs.Alternates, entry:51, badread=0, nerrors=5, basketnumber=1
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1580298, len=5706, fNbytes=0, fObjlen=0, trying to repair
+Error in <TBranchElement::GetBasket>: File: /storage/epp2/t2k/data/nd280/production005/C/mcp/genie/2010-11-water/magnet/beamb/anal/oa_gn_beam_91210007-0030_x2hl7mw6hgtw_anal_000_prod005magnet201011waterb-bsdv01.root at byte:0, branch:PIDs.Alternates, entry:52, badread=0, nerrors=6, basketnumber=1
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1580298, len=5706, fNbytes=0, fObjlen=0, trying to repair
+Error in <TBranchElement::GetBasket>: File: /storage/epp2/t2k/data/nd280/production005/C/mcp/genie/2010-11-water/magnet/beamb/anal/oa_gn_beam_91210007-0030_x2hl7mw6hgtw_anal_000_prod005magnet201011waterb-bsdv01.root at byte:0, branch:PIDs.Alternates, entry:53, badread=0, nerrors=7, basketnumber=1
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1580298, len=5706, fNbytes=0, fObjlen=0, trying to repair
+Error in <TBranchElement::GetBasket>: File: /storage/epp2/t2k/data/nd280/production005/C/mcp/genie/2010-11-water/magnet/beamb/anal/oa_gn_beam_91210007-0030_x2hl7mw6hgtw_anal_000_prod005magnet201011waterb-bsdv01.root at byte:0, branch:PIDs.Alternates, entry:54, badread=0, nerrors=8, basketnumber=1
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1580298, len=5706, fNbytes=0, fObjlen=0, trying to repair
+Error in <TBranchElement::GetBasket>: File: /storage/epp2/t2k/data/nd280/production005/C/mcp/genie/2010-11-water/magnet/beamb/anal/oa_gn_beam_91210007-0030_x2hl7mw6hgtw_anal_000_prod005magnet201011waterb-bsdv01.root at byte:0, branch:PIDs.Alternates, entry:55, badread=0, nerrors=9, basketnumber=1
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1580298, len=5706, fNbytes=0, fObjlen=0, trying to repair
+Error in <TBranchElement::GetBasket>: File: /storage/epp2/t2k/data/nd280/production005/C/mcp/genie/2010-11-water/magnet/beamb/anal/oa_gn_beam_91210007-0030_x2hl7mw6hgtw_anal_000_prod005magnet201011waterb-bsdv01.root at byte:0, branch:PIDs.Alternates, entry:56, badread=0, nerrors=10, basketnumber=1
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1580298, len=5706, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1580298, len=5706, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1580298, len=5706, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1580298, len=5706, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1580298, len=5706, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1580298, len=5706, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1580298, len=5706, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1580298, len=5706, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1580298, len=5706, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1580298, len=5706, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1580298, len=5706, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1580298, len=5706, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1580298, len=5706, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1580298, len=5706, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1580298, len=5706, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1580298, len=5706, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1580298, len=5706, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1580298, len=5706, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1580298, len=5706, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1580298, len=5706, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1580298, len=5706, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1580298, len=5706, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1580298, len=5706, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1580298, len=5706, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1580298, len=5706, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1580298, len=5706, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1603791, len=9475, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1603791, len=9475, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1603791, len=9475, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1603791, len=9475, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1603791, len=9475, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1603791, len=9475, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1603791, len=9475, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1603791, len=9475, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1603791, len=9475, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1603791, len=9475, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1603791, len=9475, fNbytes=0, fObjlen=0, trying to repair
+R__unzip: error -5 in inflate (zlib)
+Error in <TBasket::ReadBasketBuffers>: fNbytes = 9333, fKeylen = 105, fObjlen = 29342, noutot = 0, nout=0, nin=9228, nbuf=29342
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1603791, len=9475, fNbytes=0, fObjlen=0, trying to repair
+R__unzip: error -5 in inflate (zlib)
+Error in <TBasket::ReadBasketBuffers>: fNbytes = 9333, fKeylen = 105, fObjlen = 29342, noutot = 0, nout=0, nin=9228, nbuf=29342
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1603791, len=9475, fNbytes=0, fObjlen=0, trying to repair
+R__unzip: error -5 in inflate (zlib)
+Error in <TBasket::ReadBasketBuffers>: fNbytes = 9333, fKeylen = 105, fObjlen = 29342, noutot = 0, nout=0, nin=9228, nbuf=29342
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1603791, len=9475, fNbytes=0, fObjlen=0, trying to repair
+R__unzip: error -5 in inflate (zlib)
+Error in <TBasket::ReadBasketBuffers>: fNbytes = 9333, fKeylen = 105, fObjlen = 29342, noutot = 0, nout=0, nin=9228, nbuf=29342
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1603791, len=9475, fNbytes=0, fObjlen=0, trying to repair
+R__unzip: error -5 in inflate (zlib)
+Error in <TBasket::ReadBasketBuffers>: fNbytes = 9333, fKeylen = 105, fObjlen = 29342, noutot = 0, nout=0, nin=9228, nbuf=29342
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1603791, len=9475, fNbytes=0, fObjlen=0, trying to repair
+R__unzip: error -5 in inflate (zlib)
+Error in <TBasket::ReadBasketBuffers>: fNbytes = 9333, fKeylen = 105, fObjlen = 29342, noutot = 0, nout=0, nin=9228, nbuf=29342
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1603791, len=9475, fNbytes=0, fObjlen=0, trying to repair
+R__unzip: error -5 in inflate (zlib)
+Error in <TBasket::ReadBasketBuffers>: fNbytes = 9333, fKeylen = 105, fObjlen = 29342, noutot = 0, nout=0, nin=9228, nbuf=29342
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1603791, len=9475, fNbytes=0, fObjlen=0, trying to repair
+R__unzip: error -5 in inflate (zlib)
+Error in <TBasket::ReadBasketBuffers>: fNbytes = 9333, fKeylen = 105, fObjlen = 29342, noutot = 0, nout=0, nin=9228, nbuf=29342
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1603791, len=9475, fNbytes=0, fObjlen=0, trying to repair
+R__unzip: error -5 in inflate (zlib)
+Error in <TBasket::ReadBasketBuffers>: fNbytes = 9333, fKeylen = 105, fObjlen = 29342, noutot = 0, nout=0, nin=9228, nbuf=29342
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1603791, len=9475, fNbytes=0, fObjlen=0, trying to repair
+R__unzip: error -5 in inflate (zlib)
+Error in <TBasket::ReadBasketBuffers>: fNbytes = 9333, fKeylen = 105, fObjlen = 29342, noutot = 0, nout=0, nin=9228, nbuf=29342
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1603791, len=9475, fNbytes=0, fObjlen=0, trying to repair
+R__unzip: error -5 in inflate (zlib)
+Error in <TBasket::ReadBasketBuffers>: fNbytes = 9333, fKeylen = 105, fObjlen = 29342, noutot = 0, nout=0, nin=9228, nbuf=29342
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1603791, len=9475, fNbytes=0, fObjlen=0, trying to repair
+R__unzip: error -5 in inflate (zlib)
+Error in <TBasket::ReadBasketBuffers>: fNbytes = 9333, fKeylen = 105, fObjlen = 29342, noutot = 0, nout=0, nin=9228, nbuf=29342
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1603791, len=9475, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1586004, len=1491, fNbytes=0, fObjlen=0, trying to repair
+R__unzip: error -5 in inflate (zlib)
+Error in <TBasket::ReadBasketBuffers>: fNbytes = 9333, fKeylen = 105, fObjlen = 29342, noutot = 0, nout=0, nin=9228, nbuf=29342
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1603791, len=9475, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1592816, len=1341, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1591904, len=488, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1603791, len=9475, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1597961, len=801, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1600718, len=698, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1603791, len=9475, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1600718, len=698, fNbytes=0, fObjlen=0, trying to repair
+TBasket::ReadBasketBuffers:0: RuntimeWarning: basket: has fNevBuf=0 but fEntryOffset=0, pos=1603791, len=9475, fNbytes=0, fObjlen=0, trying to repair
+R__unzip: error -5 in inflate (zlib)
+Error in <TBasket::ReadBasketBuffers>: fNbytes = 5195, fKeylen = 97, fObjlen = 73632, noutot = 0, nout=0, nin=5098, nbuf=73632
+R__unzip: error -5 in inflate (zlib)
+Error in <TBasket::ReadBasketBuffers>: fNbytes = 5195, fKeylen = 97, fObjlen = 73632, noutot = 0, nout=0, nin=5098, nbuf=73632
+R__unzip: error -5 in inflate (zlib)
+Error in <TBasket::ReadBasketBuffers>: fNbytes = 5195, fKeylen = 97, fObjlen = 73632, noutot = 0, nout=0, nin=5098, nbuf=73632
+R__unzip: error -5 in inflate (zlib)
+Error in <TBasket::ReadBasketBuffers>: fNbytes = 5195, fKeylen = 97, fObjlen = 73632, noutot = 0, nout=0, nin=5098, nbuf=73632
+R__unzip: error -5 in inflate (zlib)
+Error in <TBasket::ReadBasketBuffers>: fNbytes = 5195, fKeylen = 97, fObjlen = 73632, noutot = 0, nout=0, nin=5098, nbuf=73632
+R__unzip: error -5 in inflate (zlib)
+Error in <TBasket::ReadBasketBuffers>: fNbytes = 5195, fKeylen = 97, fObjlen = 73632, noutot = 0, nout=0, nin=5098, nbuf=73632
+[?1034h
+
+
+----------------------------------------
+File Information
+----------------------------------------
+Running Script: Analysis_57_2013-02-06.py
+Outputting data to: /storage/epp2/phujce/Final Year Project/Main/Data Archive/2013/02/06/21-30-18_NE:10000000_P:0_BE/
+File name stamp: 2013-02-06-21-30-18_NE:10000000_P:0_BE
+
+
+----------------------------------------
+Simulation Information
+----------------------------------------
+Desired number of Events: 10000000
+Select Background Events
+Reading events from: /storage/epp2/t2k/data/nd280/production005/C/mcp/genie/2010-11-water/magnet/beamb/anal/
+
+
+
+
+----------------------------------------
+Reading 10000000 Events
+----------------------------------------
+0 %
+1 %
+2 %
+3 %
+4 %
+5 %
+6 %
+7 %
+8 %
+9 %
+10 %
+11 %
+12 %
+13 %
+14 %
+15 %
+16 %
+17 %
+18 %
+19 %
+20 %
+21 %
+22 %
+23 %
+24 %
+25 %
+26 %
+27 %
+28 %
+29 %
+30 %
+31 %
+32 %
+33 %
+34 %
+35 %
+36 %
+37 %
+38 %
+39 %
+40 %
+41 %
+42 %
+43 %
+ file probably overwritten: stopping reporting error messages
+44 %
+45 %
+46 %
+47 %
+48 %
+49 %
+50 %
+51 %
+52 %
+53 %
+54 %
+55 %
+56 %
+57 %
+58 %
+59 %
+60 %
+61 %
+62 %
+63 %
+64 %
+65 %
+66 %
+67 %
+68 %
+69 %
+70 %
+71 %
+72 %
+73 %
+74 %
+75 %
+76 %
+77 %
+78 %
+79 %
+80 %
+81 %
+82 %
+83 %
+84 %
+85 %
+86 %
+87 %
+88 %
+89 %
+90 %
+91 %
+92 %
+93 %
+Traceback (most recent call last):
+  File "Analysis_57_2013-02-06.py", line 2159, in <module>
+    main()
+  File "Analysis_57_2013-02-06.py", line 2149, in main
+    Analysis1.Analyse(NumberOfEventsToRead)
+  File "Analysis_57_2013-02-06.py", line 357, in Analyse
+    This.runEvent()
+  File "Analysis_57_2013-02-06.py", line 1069, in runEvent
+    for TPCTrack1 in PID.TPC: # Loop over TPC PIDs						
+TypeError: iteration over non-sequence

@@ -1,0 +1,30 @@
+List of Cuts:
+
+- Only one proton track reconstructed:
+	- Momentum of proton track constrained to between ~100 MeV to ~1500 MeV
+
+- Proton track begins in FGD
+
+- Number of reconstructed tracks:	
+
+	4: proton muon (different vertices) electron positron (+ No ECal clusters?)
+	3: proton (and from different vertex:) electron positron (+ No ECal clusters?)
+	2: proton muon (from same vertex) + ECal clusters
+	1: proton + ECal clusters
+
+Is it possible to tell direction from ECal cluster?
+
+
+
+
+
+
+
+
+Exactly one proton --> Put in PID cut 
+
+Both FGDs
+
+More than one ECal cluster
+
+Number of tracks ok

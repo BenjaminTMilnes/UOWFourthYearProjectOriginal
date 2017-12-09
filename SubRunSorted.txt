@@ -1,0 +1,1373 @@
+Run: 91210007 	Subrun: 16 	Number of background events: 10 	Processes: QS, QS, QS, OtherResonance, OtherResonance, OtherResonance, OtherResonance, C, ES, DIS
+Run: 91210001 	Subrun: 72 	Number of background events: 8 	Processes: QS, DeltaPPi, OtherResonance, OtherResonance, OtherResonance, OtherResonance, DIS, DIS
+Run: 91210013 	Subrun: 40 	Number of background events: 8 	Processes: QS, DeltaPPi, OtherResonance, ES, ES, ES, DIS, DIS
+Run: 91210000 	Subrun: 46 	Number of background events: 8 	Processes: QS, QS, OtherResonance, OtherResonance, OtherResonance, OtherResonance, DIS, DIS
+Run: 91210013 	Subrun: 33 	Number of background events: 8 	Processes: QS, OtherResonance, OtherResonance, OtherResonance, DIS, DIS, DIS, DIS
+Run: 91210012 	Subrun: 12 	Number of background events: 8 	Processes: QS, QS, QS, C, DIS, DIS, DIS, DIS
+Run: 91210005 	Subrun: 70 	Number of background events: 8 	Processes: QS, QS, OtherResonance, OtherResonance, OtherResonance, OtherResonance, DIS, DIS
+Run: 91210005 	Subrun: 52 	Number of background events: 8 	Processes: QS, QS, OtherResonance, OtherResonance, ES, DIS, DIS, DIS
+Run: 91210000 	Subrun: 52 	Number of background events: 8 	Processes: DeltaPPi, OtherResonance, OtherResonance, OtherResonance, OtherResonance, OtherResonance, OtherResonance, DIS
+Run: 91210009 	Subrun: 21 	Number of background events: 8 	Processes: QS, QS, QS, QS, QS, OtherResonance, OtherResonance, DIS
+Run: 91210006 	Subrun: 65 	Number of background events: 8 	Processes: QS, QS, QS, OtherResonance, OtherResonance, OtherResonance, DIS, DIS
+Run: 91210011 	Subrun: 101 	Number of background events: 7 	Processes: QS, QS, OtherResonance, OtherResonance, ES, DIS, DIS
+Run: 91210000 	Subrun: 50 	Number of background events: 7 	Processes: OtherResonance, OtherResonance, OtherResonance, OtherResonance, OtherResonance, DIS, DIS
+Run: 91210001 	Subrun: 58 	Number of background events: 7 	Processes: QS, QS, QS, QS, ES, DIS, DIS
+Run: 91210000 	Subrun: 91 	Number of background events: 7 	Processes: QS, QS, QS, QS, OtherResonance, OtherResonance, DIS
+Run: 91210001 	Subrun: 41 	Number of background events: 7 	Processes: QS, QS, QS, DIS, DIS, DeltaPPi, DeltaPPi
+Run: 91210005 	Subrun: 30 	Number of background events: 7 	Processes: QS, OtherResonance, OtherResonance, ES, ES, DIS, DIS
+Run: 91210008 	Subrun: 39 	Number of background events: 7 	Processes: QS, QS, ES, DIS, DIS, DIS, DIS
+Run: 91210007 	Subrun: 42 	Number of background events: 7 	Processes: QS, QS, QS, OtherResonance, DIS, DIS, DIS
+Run: 91210010 	Subrun: 3 	Number of background events: 7 	Processes: QS, QS, QS, DeltaPPi, DIS, DIS, DIS
+Run: 91210012 	Subrun: 79 	Number of background events: 7 	Processes: QS, QS, QS, OtherResonance, OtherResonance, DIS, DIS
+Run: 91210001 	Subrun: 64 	Number of background events: 7 	Processes: QS, QS, QS, QS, DeltaPPi, DIS, DIS
+Run: 91210005 	Subrun: 79 	Number of background events: 7 	Processes: QS, OtherResonance, OtherResonance, OtherResonance, OtherResonance, OtherResonance, C
+Run: 91210001 	Subrun: 47 	Number of background events: 7 	Processes: QS, QS, QS, OtherResonance, OtherResonance, OtherResonance, DeltaPPi
+Run: 91210003 	Subrun: 54 	Number of background events: 7 	Processes: QS, DIS, DIS, OtherResonance, OtherResonance, DeltaPPi, DeltaPPi
+Run: 91210012 	Subrun: 78 	Number of background events: 7 	Processes: QS, OtherResonance, ES, DIS, DIS, DIS, DIS
+Run: 91210013 	Subrun: 65 	Number of background events: 7 	Processes: QS, QS, OtherResonance, OtherResonance, DIS, DIS, DIS
+Run: 91210000 	Subrun: 108 	Number of background events: 7 	Processes: QS, QS, DeltaPPi, OtherResonance, OtherResonance, OtherResonance, DIS
+Run: 91210005 	Subrun: 13 	Number of background events: 7 	Processes: QS, QS, QS, OtherResonance, OtherResonance, DIS, DIS
+Run: 91210008 	Subrun: 105 	Number of background events: 7 	Processes: QS, QS, OtherResonance, OtherResonance, OtherResonance, OtherResonance, OtherResonance
+Run: 91210005 	Subrun: 84 	Number of background events: 7 	Processes: QS, QS, DeltaPPi, OtherResonance, OtherResonance, DIS, DIS
+Run: 91210003 	Subrun: 65 	Number of background events: 7 	Processes: QS, QS, QS, QS, OtherResonance, OtherResonance, DIS
+Run: 91210008 	Subrun: 69 	Number of background events: 7 	Processes: QS, QS, QS, OtherResonance, OtherResonance, DeltaPPi, DeltaPPi
+Run: 91210007 	Subrun: 80 	Number of background events: 6 	Processes: QS, OtherResonance, OtherResonance, DIS, DIS, DIS
+Run: 91210005 	Subrun: 2 	Number of background events: 6 	Processes: OtherResonance, OtherResonance, OtherResonance, OtherResonance, DIS, DIS
+Run: 91210010 	Subrun: 109 	Number of background events: 6 	Processes: QS, OtherResonance, OtherResonance, ES, DIS, DIS
+Run: 91210000 	Subrun: 90 	Number of background events: 6 	Processes: QS, QS, OtherResonance, ES, DIS, DIS
+Run: 91210002 	Subrun: 73 	Number of background events: 6 	Processes: QS, QS, OtherResonance, OtherResonance, DIS, DIS
+Run: 91210013 	Subrun: 78 	Number of background events: 6 	Processes: QS, QS, QS, QS, QS, QS
+Run: 91210008 	Subrun: 25 	Number of background events: 6 	Processes: QS, QS, DeltaPPi, OtherResonance, DIS, DIS
+Run: 91210012 	Subrun: 22 	Number of background events: 6 	Processes: QS, QS, OtherResonance, DIS, DIS, DIS
+Run: 91210013 	Subrun: 0 	Number of background events: 6 	Processes: QS, QS, OtherResonance, DIS, DIS, DIS
+Run: 91210012 	Subrun: 111 	Number of background events: 6 	Processes: QS, QS, QS, QS, ES, DIS
+Run: 91210007 	Subrun: 3 	Number of background events: 6 	Processes: QS, OtherResonance, OtherResonance, OtherResonance, OtherResonance, DIS
+Run: 91210011 	Subrun: 100 	Number of background events: 6 	Processes: QS, DeltaPPi, OtherResonance, DIS, DIS, DIS
+Run: 91210003 	Subrun: 43 	Number of background events: 6 	Processes: OtherResonance, OtherResonance, OtherResonance, DIS, DIS, DIS
+Run: 91210013 	Subrun: 85 	Number of background events: 6 	Processes: QS, QS, OtherResonance, OtherResonance, DIS, DIS
+Run: 91210006 	Subrun: 25 	Number of background events: 6 	Processes: QS, OtherResonance, OtherResonance, DIS, DIS, DIS
+Run: 91210008 	Subrun: 24 	Number of background events: 6 	Processes: QS, QS, QS, C, ES, DIS
+Run: 91210000 	Subrun: 58 	Number of background events: 6 	Processes: QS, QS, QS, DeltaPPi, DeltaPPi, DeltaPPi
+Run: 91210011 	Subrun: 38 	Number of background events: 6 	Processes: QS, QS, OtherResonance, OtherResonance, DIS, DIS
+Run: 91210013 	Subrun: 11 	Number of background events: 6 	Processes: QS, QS, QS, DIS, OtherResonance, DeltaPPi
+Run: 91210012 	Subrun: 64 	Number of background events: 6 	Processes: DeltaPPi, OtherResonance, DIS, DIS, DIS, DIS
+Run: 91210010 	Subrun: 55 	Number of background events: 6 	Processes: QS, OtherResonance, DIS, DIS, DIS, DIS
+Run: 91210001 	Subrun: 37 	Number of background events: 6 	Processes: QS, OtherResonance, OtherResonance, OtherResonance, DIS, DIS
+Run: 91210001 	Subrun: 90 	Number of background events: 6 	Processes: QS, OtherResonance, OtherResonance, OtherResonance, OtherResonance, DIS
+Run: 91210000 	Subrun: 71 	Number of background events: 6 	Processes: QS, QS, OtherResonance, OtherResonance, DIS, DIS
+Run: 91210006 	Subrun: 24 	Number of background events: 6 	Processes: QS, QS, OtherResonance, OtherResonance, OtherResonance, DIS
+Run: 91210002 	Subrun: 109 	Number of background events: 6 	Processes: QS, QS, OtherResonance, OtherResonance, OtherResonance, DIS
+Run: 91210006 	Subrun: 57 	Number of background events: 6 	Processes: QS, QS, DeltaPPi, DIS, DIS, DIS
+Run: 91210009 	Subrun: 73 	Number of background events: 6 	Processes: QS, QS, OtherResonance, OtherResonance, ES, DIS
+Run: 91210007 	Subrun: 99 	Number of background events: 6 	Processes: QS, QS, OtherResonance, ES, DeltaPPi, DeltaPPi
+Run: 91210009 	Subrun: 19 	Number of background events: 6 	Processes: QS, QS, DIS, OtherResonance, OtherResonance, DeltaPPi
+Run: 91210010 	Subrun: 85 	Number of background events: 6 	Processes: QS, QS, DIS, DIS, DIS, DIS
+Run: 91210008 	Subrun: 48 	Number of background events: 6 	Processes: QS, QS, QS, OtherResonance, DIS, DIS
+Run: 91210002 	Subrun: 56 	Number of background events: 6 	Processes: QS, QS, QS, OtherResonance, OtherResonance, DIS
+Run: 91210007 	Subrun: 43 	Number of background events: 6 	Processes: QS, QS, QS, OtherResonance, OtherResonance, DIS
+Run: 91210013 	Subrun: 56 	Number of background events: 6 	Processes: QS, QS, DIS, DIS, DIS, DIS
+Run: 91210004 	Subrun: 15 	Number of background events: 6 	Processes: QS, OtherResonance, ES, ES, DIS, DIS
+Run: 91210011 	Subrun: 79 	Number of background events: 6 	Processes: QS, QS, QS, QS, OtherResonance, OtherResonance
+Run: 91210002 	Subrun: 83 	Number of background events: 6 	Processes: QS, QS, QS, QS, DIS, DIS
+Run: 91210013 	Subrun: 34 	Number of background events: 6 	Processes: QS, QS, OtherResonance, DIS, DIS, DIS
+Run: 91210003 	Subrun: 2 	Number of background events: 6 	Processes: QS, QS, OtherResonance, OtherResonance, OtherResonance, DIS
+Run: 91210001 	Subrun: 82 	Number of background events: 6 	Processes: QS, QS, QS, OtherResonance, DIS, DIS
+Run: 91210011 	Subrun: 8 	Number of background events: 6 	Processes: QS, OtherResonance, OtherResonance, ES, DIS, DIS
+Run: 91210010 	Subrun: 35 	Number of background events: 6 	Processes: QS, OtherResonance, OtherResonance, DIS, DIS, DIS
+Run: 91210003 	Subrun: 39 	Number of background events: 6 	Processes: QS, QS, OtherResonance, OtherResonance, OtherResonance, ES
+Run: 91210000 	Subrun: 31 	Number of background events: 6 	Processes: QS, QS, OtherResonance, ES, ES, DIS
+Run: 91210013 	Subrun: 86 	Number of background events: 6 	Processes: QS, QS, OtherResonance, DIS, DIS, DIS
+Run: 91210007 	Subrun: 108 	Number of background events: 6 	Processes: QS, QS, OtherResonance, OtherResonance, DIS, DIS
+Run: 91210007 	Subrun: 54 	Number of background events: 6 	Processes: QS, QS, QS, OtherResonance, C, DIS
+Run: 91210003 	Subrun: 104 	Number of background events: 6 	Processes: QS, OtherResonance, OtherResonance, DIS, DIS, DIS
+Run: 91210013 	Subrun: 35 	Number of background events: 6 	Processes: QS, QS, OtherResonance, ES, DIS, DIS
+Run: 91210003 	Subrun: 4 	Number of background events: 6 	Processes: QS, QS, OtherResonance, OtherResonance, OtherResonance, ES
+Run: 91210002 	Subrun: 98 	Number of background events: 6 	Processes: QS, QS, QS, QS, OtherResonance, OtherResonance
+Run: 91210007 	Subrun: 17 	Number of background events: 6 	Processes: QS, ES, ES, DIS, DIS, DIS
+Run: 91210005 	Subrun: 49 	Number of background events: 6 	Processes: QS, QS, OtherResonance, DIS, DIS, DIS
+Run: 91210012 	Subrun: 30 	Number of background events: 6 	Processes: QS, QS, OtherResonance, DIS, DIS, DIS
+Run: 91210009 	Subrun: 69 	Number of background events: 6 	Processes: QS, QS, QS, QS, QS, DIS
+Run: 91210005 	Subrun: 34 	Number of background events: 6 	Processes: QS, OtherResonance, OtherResonance, OtherResonance, OtherResonance, ES
+Run: 91210002 	Subrun: 31 	Number of background events: 6 	Processes: QS, QS, QS, DIS, DIS, DIS
+Run: 91210003 	Subrun: 26 	Number of background events: 6 	Processes: C, DeltaPPi, OtherResonance, OtherResonance, DIS, DIS
+Run: 91210011 	Subrun: 51 	Number of background events: 6 	Processes: QS, QS, OtherResonance, DIS, DIS, DIS
+Run: 91210008 	Subrun: 54 	Number of background events: 6 	Processes: OtherResonance, OtherResonance, OtherResonance, DIS, DIS, DIS
+Run: 91210002 	Subrun: 41 	Number of background events: 6 	Processes: QS, QS, OtherResonance, OtherResonance, DIS, DIS
+Run: 91210006 	Subrun: 89 	Number of background events: 6 	Processes: QS, QS, DeltaPPi, OtherResonance, DIS, DIS
+Run: 91210000 	Subrun: 44 	Number of background events: 6 	Processes: QS, QS, QS, OtherResonance, OtherResonance, DIS
+Run: 91210005 	Subrun: 39 	Number of background events: 6 	Processes: QS, OtherResonance, OtherResonance, ES, DIS, DIS
+Run: 91210002 	Subrun: 22 	Number of background events: 6 	Processes: QS, QS, QS, QS, QS, OtherResonance
+Run: 91210009 	Subrun: 97 	Number of background events: 6 	Processes: QS, QS, QS, QS, QS, DIS
+Run: 91210006 	Subrun: 96 	Number of background events: 6 	Processes: OtherResonance, OtherResonance, DIS, DIS, DIS, DIS
+Run: 91210010 	Subrun: 81 	Number of background events: 5 	Processes: QS, OtherResonance, OtherResonance, DIS, DIS
+Run: 91210000 	Subrun: 26 	Number of background events: 5 	Processes: QS, DeltaPPi, OtherResonance, DIS, DIS
+Run: 91210003 	Subrun: 29 	Number of background events: 5 	Processes: QS, OtherResonance, OtherResonance, DIS, DIS
+Run: 91210013 	Subrun: 48 	Number of background events: 5 	Processes: QS, QS, OtherResonance, DIS, DIS
+Run: 91210007 	Subrun: 40 	Number of background events: 5 	Processes: QS, OtherResonance, OtherResonance, DIS, DIS
+Run: 91210008 	Subrun: 36 	Number of background events: 5 	Processes: QS, OtherResonance, OtherResonance, DIS, DIS
+Run: 91210007 	Subrun: 47 	Number of background events: 5 	Processes: QS, DeltaPPi, DIS, DIS, DIS
+Run: 91210013 	Subrun: 61 	Number of background events: 5 	Processes: OtherResonance, OtherResonance, DIS, DIS, DIS
+Run: 91210011 	Subrun: 23 	Number of background events: 5 	Processes: QS, OtherResonance, OtherResonance, OtherResonance, DIS
+Run: 91210003 	Subrun: 109 	Number of background events: 5 	Processes: QS, OtherResonance, ES, DIS, DIS
+Run: 91210000 	Subrun: 76 	Number of background events: 5 	Processes: QS, QS, QS, OtherResonance, OtherResonance
+Run: 91210005 	Subrun: 73 	Number of background events: 5 	Processes: QS, OtherResonance, ES, DIS, DIS
+Run: 91210011 	Subrun: 41 	Number of background events: 5 	Processes: OtherResonance, OtherResonance, OtherResonance, DIS, DIS
+Run: 91210009 	Subrun: 85 	Number of background events: 5 	Processes: OtherResonance, OtherResonance, OtherResonance, OtherResonance, DIS
+Run: 91210010 	Subrun: 62 	Number of background events: 5 	Processes: QS, OtherResonance, OtherResonance, OtherResonance, C
+Run: 91210010 	Subrun: 75 	Number of background events: 5 	Processes: QS, QS, OtherResonance, OtherResonance, DIS
+Run: 91210008 	Subrun: 58 	Number of background events: 5 	Processes: QS, QS, OtherResonance, DIS, DIS
+Run: 91210002 	Subrun: 54 	Number of background events: 5 	Processes: QS, QS, QS, QS, OtherResonance
+Run: 91210003 	Subrun: 90 	Number of background events: 5 	Processes: QS, OtherResonance, OtherResonance, OtherResonance, DIS
+Run: 91210008 	Subrun: 53 	Number of background events: 5 	Processes: QS, DeltaPPi, OtherResonance, DIS, DIS
+Run: 91210006 	Subrun: 41 	Number of background events: 5 	Processes: QS, QS, OtherResonance, ES, DIS
+Run: 91210006 	Subrun: 38 	Number of background events: 5 	Processes: QS, QS, QS, QS, DeltaPPi
+Run: 91210004 	Subrun: 5 	Number of background events: 5 	Processes: DeltaPPi, DIS, DIS, DIS, DIS
+Run: 91210000 	Subrun: 96 	Number of background events: 5 	Processes: QS, DIS, OtherResonance, DeltaPPi, DeltaPPi
+Run: 91210011 	Subrun: 25 	Number of background events: 5 	Processes: QS, QS, QS, OtherResonance, DIS
+Run: 91210002 	Subrun: 70 	Number of background events: 5 	Processes: QS, QS, DIS, DIS, DeltaPPi
+Run: 91210010 	Subrun: 101 	Number of background events: 5 	Processes: QS, QS, QS, QS, DeltaPPi
+Run: 91210011 	Subrun: 4 	Number of background events: 5 	Processes: QS, DeltaPPi, DIS, DIS, DIS
+Run: 91210011 	Subrun: 63 	Number of background events: 5 	Processes: QS, QS, DIS, OtherResonance, DeltaPPi
+Run: 91210003 	Subrun: 83 	Number of background events: 5 	Processes: QS, QS, OtherResonance, OtherResonance, DIS
+Run: 91210003 	Subrun: 101 	Number of background events: 5 	Processes: QS, QS, QS, OtherResonance, DIS
+Run: 91210007 	Subrun: 104 	Number of background events: 5 	Processes: QS, QS, OtherResonance, ES, DIS
+Run: 91210008 	Subrun: 6 	Number of background events: 5 	Processes: QS, OtherResonance, DIS, DIS, DIS
+Run: 91210001 	Subrun: 9 	Number of background events: 5 	Processes: QS, QS, QS, QS, OtherResonance
+Run: 91210007 	Subrun: 75 	Number of background events: 5 	Processes: QS, QS, QS, OtherResonance, DIS
+Run: 91210003 	Subrun: 56 	Number of background events: 5 	Processes: QS, QS, OtherResonance, OtherResonance, DIS
+Run: 91210009 	Subrun: 91 	Number of background events: 5 	Processes: QS, QS, QS, DIS, DeltaPPi
+Run: 91210014 	Subrun: 2 	Number of background events: 5 	Processes: QS, QS, DeltaPPi, OtherResonance, DIS
+Run: 91210000 	Subrun: 7 	Number of background events: 5 	Processes: QS, DIS, OtherResonance, OtherResonance, DeltaPPi
+Run: 91210010 	Subrun: 83 	Number of background events: 5 	Processes: QS, OtherResonance, OtherResonance, OtherResonance, DIS
+Run: 91210000 	Subrun: 12 	Number of background events: 5 	Processes: QS, DeltaPPi, OtherResonance, ES, DIS
+Run: 91210002 	Subrun: 94 	Number of background events: 5 	Processes: QS, QS, OtherResonance, DIS, DIS
+Run: 91210003 	Subrun: 8 	Number of background events: 5 	Processes: QS, QS, OtherResonance, OtherResonance, DeltaPPi
+Run: 91210003 	Subrun: 45 	Number of background events: 5 	Processes: QS, QS, QS, DIS, DIS
+Run: 91210007 	Subrun: 31 	Number of background events: 5 	Processes: QS, OtherResonance, OtherResonance, OtherResonance, C
+Run: 91210011 	Subrun: 90 	Number of background events: 5 	Processes: QS, QS, DIS, DIS, DIS
+Run: 91210007 	Subrun: 22 	Number of background events: 5 	Processes: QS, QS, QS, OtherResonance, DIS
+Run: 91210013 	Subrun: 98 	Number of background events: 5 	Processes: QS, QS, OtherResonance, OtherResonance, OtherResonance
+Run: 91210009 	Subrun: 10 	Number of background events: 5 	Processes: QS, QS, OtherResonance, DIS, DIS
+Run: 91210013 	Subrun: 93 	Number of background events: 5 	Processes: QS, QS, QS, ES, ES
+Run: 91210002 	Subrun: 110 	Number of background events: 5 	Processes: QS, QS, QS, QS, OtherResonance
+Run: 91210000 	Subrun: 22 	Number of background events: 5 	Processes: QS, QS, OtherResonance, OtherResonance, DIS
+Run: 91210008 	Subrun: 41 	Number of background events: 5 	Processes: QS, QS, QS, OtherResonance, ES
+Run: 91210008 	Subrun: 46 	Number of background events: 5 	Processes: QS, QS, DeltaPPi, OtherResonance, DIS
+Run: 91210006 	Subrun: 0 	Number of background events: 5 	Processes: QS, OtherResonance, OtherResonance, ES, DIS
+Run: 91210002 	Subrun: 45 	Number of background events: 5 	Processes: QS, QS, QS, OtherResonance, DeltaPPi
+Run: 91210007 	Subrun: 37 	Number of background events: 5 	Processes: QS, QS, OtherResonance, OtherResonance, DIS
+Run: 91210008 	Subrun: 31 	Number of background events: 5 	Processes: QS, DIS, DIS, DIS, DIS
+Run: 91210003 	Subrun: 46 	Number of background events: 5 	Processes: QS, QS, QS, DIS, DIS
+Run: 91210000 	Subrun: 30 	Number of background events: 5 	Processes: QS, QS, QS, DIS, DIS
+Run: 91210010 	Subrun: 14 	Number of background events: 5 	Processes: QS, QS, OtherResonance, ES, DIS
+Run: 91210008 	Subrun: 71 	Number of background events: 5 	Processes: OtherResonance, OtherResonance, ES, DIS, DIS
+Run: 91210008 	Subrun: 86 	Number of background events: 5 	Processes: QS, OtherResonance, OtherResonance, DIS, DIS
+Run: 91210003 	Subrun: 5 	Number of background events: 5 	Processes: QS, OtherResonance, OtherResonance, OtherResonance, DIS
+Run: 91210009 	Subrun: 72 	Number of background events: 5 	Processes: QS, QS, OtherResonance, OtherResonance, DIS
+Run: 91210003 	Subrun: 66 	Number of background events: 5 	Processes: QS, QS, OtherResonance, OtherResonance, DIS
+Run: 91210003 	Subrun: 0 	Number of background events: 5 	Processes: QS, QS, OtherResonance, DIS, DIS
+Run: 91210003 	Subrun: 69 	Number of background events: 5 	Processes: QS, QS, OtherResonance, DIS, DIS
+Run: 91210000 	Subrun: 109 	Number of background events: 5 	Processes: QS, QS, OtherResonance, ES, DIS
+Run: 91210000 	Subrun: 19 	Number of background events: 5 	Processes: QS, QS, OtherResonance, OtherResonance, DIS
+Run: 91210007 	Subrun: 67 	Number of background events: 5 	Processes: QS, QS, OtherResonance, OtherResonance, OtherResonance
+Run: 91210000 	Subrun: 21 	Number of background events: 5 	Processes: QS, QS, ES, ES, DeltaPPi
+Run: 91210010 	Subrun: 52 	Number of background events: 5 	Processes: QS, OtherResonance, OtherResonance, C, ES
+Run: 91210000 	Subrun: 10 	Number of background events: 5 	Processes: QS, QS, OtherResonance, OtherResonance, OtherResonance
+Run: 91210005 	Subrun: 54 	Number of background events: 5 	Processes: QS, QS, QS, OtherResonance, OtherResonance
+Run: 91210009 	Subrun: 34 	Number of background events: 5 	Processes: QS, QS, OtherResonance, OtherResonance, ES
+Run: 91210012 	Subrun: 100 	Number of background events: 5 	Processes: QS, QS, OtherResonance, DIS, DIS
+Run: 91210013 	Subrun: 104 	Number of background events: 5 	Processes: QS, QS, OtherResonance, DIS, DIS
+Run: 91210006 	Subrun: 29 	Number of background events: 5 	Processes: QS, QS, QS, OtherResonance, OtherResonance
+Run: 91210000 	Subrun: 82 	Number of background events: 5 	Processes: QS, QS, QS, DIS, DIS
+Run: 91210008 	Subrun: 20 	Number of background events: 5 	Processes: QS, OtherResonance, OtherResonance, DIS, DIS
+Run: 91210010 	Subrun: 25 	Number of background events: 5 	Processes: QS, QS, QS, QS, OtherResonance
+Run: 91210005 	Subrun: 19 	Number of background events: 5 	Processes: QS, QS, QS, DeltaPPi, DIS
+Run: 91210006 	Subrun: 103 	Number of background events: 5 	Processes: QS, QS, OtherResonance, OtherResonance, OtherResonance
+Run: 91210012 	Subrun: 43 	Number of background events: 5 	Processes: QS, QS, DeltaPPi, OtherResonance, DIS
+Run: 91210002 	Subrun: 89 	Number of background events: 5 	Processes: QS, QS, QS, OtherResonance, OtherResonance
+Run: 91210011 	Subrun: 99 	Number of background events: 5 	Processes: QS, QS, OtherResonance, ES, DIS
+Run: 91210002 	Subrun: 82 	Number of background events: 5 	Processes: OtherResonance, OtherResonance, DIS, DIS, DIS
+Run: 91210009 	Subrun: 15 	Number of background events: 5 	Processes: QS, OtherResonance, DIS, DIS, DIS
+Run: 91210009 	Subrun: 71 	Number of background events: 5 	Processes: QS, OtherResonance, OtherResonance, OtherResonance, DIS
+Run: 91210012 	Subrun: 86 	Number of background events: 5 	Processes: QS, QS, QS, DIS, DIS
+Run: 91210007 	Subrun: 97 	Number of background events: 5 	Processes: QS, QS, QS, DeltaPPi, DIS
+Run: 91210000 	Subrun: 6 	Number of background events: 5 	Processes: QS, QS, QS, OtherResonance, OtherResonance
+Run: 91210010 	Subrun: 79 	Number of background events: 5 	Processes: QS, OtherResonance, DIS, DIS, DIS
+Run: 91210006 	Subrun: 35 	Number of background events: 5 	Processes: QS, QS, QS, OtherResonance, DIS
+Run: 91210003 	Subrun: 31 	Number of background events: 5 	Processes: QS, OtherResonance, OtherResonance, OtherResonance, DeltaPPi
+Run: 91210013 	Subrun: 9 	Number of background events: 5 	Processes: QS, OtherResonance, OtherResonance, OtherResonance, DIS
+Run: 91210008 	Subrun: 33 	Number of background events: 5 	Processes: QS, QS, OtherResonance, OtherResonance, DIS
+Run: 91210007 	Subrun: 4 	Number of background events: 5 	Processes: OtherResonance, OtherResonance, OtherResonance, ES, DIS
+Run: 91210001 	Subrun: 5 	Number of background events: 5 	Processes: QS, OtherResonance, DIS, DIS, DIS
+Run: 91210003 	Subrun: 36 	Number of background events: 5 	Processes: QS, QS, QS, OtherResonance, ES
+Run: 91210011 	Subrun: 1 	Number of background events: 5 	Processes: QS, OtherResonance, DIS, DIS, DIS
+Run: 91210000 	Subrun: 39 	Number of background events: 5 	Processes: QS, OtherResonance, OtherResonance, DIS, DIS
+Run: 91210013 	Subrun: 107 	Number of background events: 5 	Processes: QS, QS, OtherResonance, DIS, DIS
+Run: 91210012 	Subrun: 91 	Number of background events: 5 	Processes: QS, OtherResonance, DIS, DIS, DIS
+Run: 91210000 	Subrun: 74 	Number of background events: 5 	Processes: QS, QS, QS, OtherResonance, DeltaPPi
+Run: 91210001 	Subrun: 42 	Number of background events: 5 	Processes: QS, QS, QS, OtherResonance, DIS
+Run: 91210006 	Subrun: 102 	Number of background events: 5 	Processes: QS, OtherResonance, OtherResonance, DIS, DIS
+Run: 91210002 	Subrun: 106 	Number of background events: 5 	Processes: DeltaPPi, DIS, DIS, DIS, DIS
+Run: 91210005 	Subrun: 48 	Number of background events: 5 	Processes: QS, QS, OtherResonance, DIS, DIS
+Run: 91210009 	Subrun: 94 	Number of background events: 5 	Processes: QS, QS, QS, DIS, DIS
+Run: 91210000 	Subrun: 102 	Number of background events: 5 	Processes: QS, QS, QS, OtherResonance, DeltaPPi
+Run: 91210001 	Subrun: 75 	Number of background events: 5 	Processes: QS, DeltaPPi, OtherResonance, OtherResonance, DIS
+Run: 91210005 	Subrun: 53 	Number of background events: 5 	Processes: QS, OtherResonance, OtherResonance, DIS, DIS
+Run: 91210010 	Subrun: 36 	Number of background events: 5 	Processes: QS, DIS, DIS, DIS, DIS
+Run: 91210012 	Subrun: 106 	Number of background events: 5 	Processes: OtherResonance, OtherResonance, OtherResonance, DIS, DIS
+Run: 91210003 	Subrun: 30 	Number of background events: 5 	Processes: QS, DIS, DIS, DIS, DeltaPPi
+Run: 91210011 	Subrun: 5 	Number of background events: 5 	Processes: QS, OtherResonance, OtherResonance, OtherResonance, DIS
+Run: 91210012 	Subrun: 90 	Number of background events: 5 	Processes: QS, QS, OtherResonance, DIS, DIS
+Run: 91210011 	Subrun: 44 	Number of background events: 5 	Processes: QS, DeltaPPi, OtherResonance, DIS, DIS
+Run: 91210008 	Subrun: 14 	Number of background events: 5 	Processes: QS, QS, QS, OtherResonance, OtherResonance
+Run: 91210000 	Subrun: 53 	Number of background events: 5 	Processes: QS, QS, DIS, DIS, DIS
+Run: 91210011 	Subrun: 42 	Number of background events: 5 	Processes: QS, OtherResonance, ES, DIS, DIS
+Run: 91210009 	Subrun: 28 	Number of background events: 5 	Processes: DeltaPPi, OtherResonance, OtherResonance, OtherResonance, DIS
+Run: 91210009 	Subrun: 84 	Number of background events: 5 	Processes: DIS, DIS, DIS, ES, DeltaPPi
+Run: 91210001 	Subrun: 80 	Number of background events: 5 	Processes: QS, QS, OtherResonance, OtherResonance, DIS
+Run: 91210006 	Subrun: 3 	Number of background events: 5 	Processes: QS, OtherResonance, ES, DIS, DIS
+Run: 91210009 	Subrun: 17 	Number of background events: 5 	Processes: QS, QS, OtherResonance, C, DIS
+Run: 91210007 	Subrun: 5 	Number of background events: 5 	Processes: QS, QS, DIS, DIS, DIS
+Run: 91210003 	Subrun: 51 	Number of background events: 5 	Processes: QS, QS, QS, OtherResonance, DIS
+Run: 91210004 	Subrun: 111 	Number of background events: 5 	Processes: OtherResonance, OtherResonance, DIS, DIS, DIS
+Run: 91210009 	Subrun: 78 	Number of background events: 5 	Processes: QS, QS, QS, OtherResonance, DIS
+Run: 91210001 	Subrun: 73 	Number of background events: 5 	Processes: QS, QS, QS, OtherResonance, OtherResonance
+Run: 91210002 	Subrun: 53 	Number of background events: 4 	Processes: OtherResonance, OtherResonance, OtherResonance, OtherResonance
+Run: 91210012 	Subrun: 62 	Number of background events: 4 	Processes: OtherResonance, OtherResonance, OtherResonance, DIS
+Run: 91210005 	Subrun: 51 	Number of background events: 4 	Processes: QS, QS, QS, DIS
+Run: 91210009 	Subrun: 31 	Number of background events: 4 	Processes: QS, QS, QS, DIS
+Run: 91210000 	Subrun: 35 	Number of background events: 4 	Processes: QS, QS, OtherResonance, OtherResonance
+Run: 91210004 	Subrun: 3 	Number of background events: 4 	Processes: QS, OtherResonance, OtherResonance, DIS
+Run: 91210001 	Subrun: 96 	Number of background events: 4 	Processes: QS, QS, QS, QS
+Run: 91210007 	Subrun: 8 	Number of background events: 4 	Processes: OtherResonance, OtherResonance, OtherResonance, ES
+Run: 91210009 	Subrun: 51 	Number of background events: 4 	Processes: QS, OtherResonance, DIS, DIS
+Run: 91210000 	Subrun: 78 	Number of background events: 4 	Processes: QS, OtherResonance, DIS, DIS
+Run: 91210000 	Subrun: 86 	Number of background events: 4 	Processes: OtherResonance, DIS, DIS, DIS
+Run: 91210007 	Subrun: 15 	Number of background events: 4 	Processes: OtherResonance, OtherResonance, OtherResonance, DIS
+Run: 91210013 	Subrun: 71 	Number of background events: 4 	Processes: QS, QS, ES, DIS
+Run: 91210010 	Subrun: 21 	Number of background events: 4 	Processes: QS, QS, OtherResonance, OtherResonance
+Run: 91210009 	Subrun: 1 	Number of background events: 4 	Processes: QS, QS, OtherResonance, DIS
+Run: 91210011 	Subrun: 60 	Number of background events: 4 	Processes: QS, OtherResonance, ES, DIS
+Run: 91210009 	Subrun: 65 	Number of background events: 4 	Processes: QS, QS, ES, DIS
+Run: 91210001 	Subrun: 6 	Number of background events: 4 	Processes: QS, OtherResonance, OtherResonance, DIS
+Run: 91210005 	Subrun: 93 	Number of background events: 4 	Processes: QS, QS, OtherResonance, DIS
+Run: 91210001 	Subrun: 11 	Number of background events: 4 	Processes: QS, QS, QS, OtherResonance
+Run: 91210005 	Subrun: 69 	Number of background events: 4 	Processes: QS, OtherResonance, OtherResonance, OtherResonance
+Run: 91210005 	Subrun: 31 	Number of background events: 4 	Processes: QS, OtherResonance, DIS, DIS
+Run: 91210012 	Subrun: 36 	Number of background events: 4 	Processes: OtherResonance, OtherResonance, ES, DeltaPPi
+Run: 91210011 	Subrun: 95 	Number of background events: 4 	Processes: QS, QS, QS, ES
+Run: 91210002 	Subrun: 104 	Number of background events: 4 	Processes: QS, QS, QS, ES
+Run: 91210012 	Subrun: 72 	Number of background events: 4 	Processes: QS, DeltaPPi, DeltaPPi, DIS
+Run: 91210009 	Subrun: 16 	Number of background events: 4 	Processes: QS, QS, DIS, DeltaPPi
+Run: 91210001 	Subrun: 53 	Number of background events: 4 	Processes: DeltaPPi, ES, DIS, DIS
+Run: 91210003 	Subrun: 63 	Number of background events: 4 	Processes: QS, QS, QS, DIS
+Run: 91210013 	Subrun: 94 	Number of background events: 4 	Processes: QS, QS, QS, OtherResonance
+Run: 91210008 	Subrun: 68 	Number of background events: 4 	Processes: QS, QS, QS, QS
+Run: 91210008 	Subrun: 90 	Number of background events: 4 	Processes: QS, QS, DIS, DIS
+Run: 91210007 	Subrun: 38 	Number of background events: 4 	Processes: QS, OtherResonance, OtherResonance, DIS
+Run: 91210005 	Subrun: 3 	Number of background events: 4 	Processes: QS, OtherResonance, DIS, DIS
+Run: 91210010 	Subrun: 42 	Number of background events: 4 	Processes: QS, DeltaPPi, OtherResonance, DIS
+Run: 91210009 	Subrun: 37 	Number of background events: 4 	Processes: QS, QS, QS, OtherResonance
+Run: 91210011 	Subrun: 53 	Number of background events: 4 	Processes: OtherResonance, DIS, DIS, DIS
+Run: 91210008 	Subrun: 44 	Number of background events: 4 	Processes: QS, QS, OtherResonance, ES
+Run: 91210005 	Subrun: 50 	Number of background events: 4 	Processes: QS, QS, QS, OtherResonance
+Run: 91210012 	Subrun: 3 	Number of background events: 4 	Processes: QS, QS, OtherResonance, OtherResonance
+Run: 91210009 	Subrun: 30 	Number of background events: 4 	Processes: QS, OtherResonance, DIS, DIS
+Run: 91210008 	Subrun: 38 	Number of background events: 4 	Processes: QS, QS, QS, OtherResonance
+Run: 91210001 	Subrun: 31 	Number of background events: 4 	Processes: QS, OtherResonance, OtherResonance, OtherResonance
+Run: 91210006 	Subrun: 77 	Number of background events: 4 	Processes: ES, DIS, DIS, DIS
+Run: 91210001 	Subrun: 91 	Number of background events: 4 	Processes: QS, OtherResonance, OtherResonance, DIS
+Run: 91210012 	Subrun: 9 	Number of background events: 4 	Processes: QS, QS, OtherResonance, OtherResonance
+Run: 91210008 	Subrun: 7 	Number of background events: 4 	Processes: QS, QS, OtherResonance, DIS
+Run: 91210000 	Subrun: 60 	Number of background events: 4 	Processes: QS, OtherResonance, OtherResonance, OtherResonance
+Run: 91210006 	Subrun: 69 	Number of background events: 4 	Processes: DIS, DIS, DIS, DIS
+Run: 91210007 	Subrun: 36 	Number of background events: 4 	Processes: OtherResonance, OtherResonance, OtherResonance, OtherResonance
+Run: 91210005 	Subrun: 72 	Number of background events: 4 	Processes: QS, QS, QS, DIS
+Run: 91210008 	Subrun: 84 	Number of background events: 4 	Processes: OtherResonance, DIS, DIS, DIS
+Run: 91210005 	Subrun: 92 	Number of background events: 4 	Processes: OtherResonance, DIS, DIS, DIS
+Run: 91210011 	Subrun: 72 	Number of background events: 4 	Processes: QS, OtherResonance, ES, DIS
+Run: 91210012 	Subrun: 71 	Number of background events: 4 	Processes: QS, OtherResonance, OtherResonance, DIS
+Run: 91210008 	Subrun: 1 	Number of background events: 4 	Processes: QS, OtherResonance, OtherResonance, OtherResonance
+Run: 91210006 	Subrun: 108 	Number of background events: 4 	Processes: OtherResonance, OtherResonance, DIS, DIS
+Run: 91210005 	Subrun: 47 	Number of background events: 4 	Processes: OtherResonance, DIS, DIS, DIS
+Run: 91210005 	Subrun: 105 	Number of background events: 4 	Processes: QS, QS, OtherResonance, DIS
+Run: 91210007 	Subrun: 9 	Number of background events: 4 	Processes: QS, OtherResonance, DIS, DIS
+Run: 91210000 	Subrun: 106 	Number of background events: 4 	Processes: QS, QS, DIS, DIS
+Run: 91210011 	Subrun: 10 	Number of background events: 4 	Processes: QS, QS, DIS, DIS
+Run: 91210003 	Subrun: 71 	Number of background events: 4 	Processes: QS, QS, OtherResonance, ES
+Run: 91210011 	Subrun: 55 	Number of background events: 4 	Processes: QS, QS, QS, DIS
+Run: 91210013 	Subrun: 18 	Number of background events: 4 	Processes: QS, QS, OtherResonance, DIS
+Run: 91210006 	Subrun: 36 	Number of background events: 4 	Processes: QS, ES, DIS, DIS
+Run: 91210008 	Subrun: 50 	Number of background events: 4 	Processes: DIS, DIS, DIS, DIS
+Run: 91210006 	Subrun: 40 	Number of background events: 4 	Processes: QS, QS, OtherResonance, ES
+Run: 91210006 	Subrun: 49 	Number of background events: 4 	Processes: QS, OtherResonance, OtherResonance, DIS
+Run: 91210011 	Subrun: 107 	Number of background events: 4 	Processes: QS, OtherResonance, OtherResonance, DIS
+Run: 91210002 	Subrun: 46 	Number of background events: 4 	Processes: QS, QS, OtherResonance, DIS
+Run: 91210012 	Subrun: 50 	Number of background events: 4 	Processes: OtherResonance, OtherResonance, ES, DIS
+Run: 91210011 	Subrun: 3 	Number of background events: 4 	Processes: QS, OtherResonance, ES, DIS
+Run: 91210013 	Subrun: 102 	Number of background events: 4 	Processes: QS, QS, DIS, DIS
+Run: 91210013 	Subrun: 68 	Number of background events: 4 	Processes: QS, QS, OtherResonance, DIS
+Run: 91210013 	Subrun: 73 	Number of background events: 4 	Processes: QS, OtherResonance, OtherResonance, OtherResonance
+Run: 91210010 	Subrun: 27 	Number of background events: 4 	Processes: QS, OtherResonance, C, DIS
+Run: 91210008 	Subrun: 13 	Number of background events: 4 	Processes: QS, QS, OtherResonance, OtherResonance
+Run: 91210011 	Subrun: 46 	Number of background events: 4 	Processes: OtherResonance, OtherResonance, OtherResonance, OtherResonance
+Run: 91210009 	Subrun: 67 	Number of background events: 4 	Processes: QS, QS, ES, DIS
+Run: 91210011 	Subrun: 36 	Number of background events: 4 	Processes: QS, DeltaPPi, OtherResonance, DIS
+Run: 91210005 	Subrun: 95 	Number of background events: 4 	Processes: OtherResonance, ES, DIS, DIS
+Run: 91210009 	Subrun: 4 	Number of background events: 4 	Processes: QS, OtherResonance, OtherResonance, DeltaPPi
+Run: 91210009 	Subrun: 24 	Number of background events: 4 	Processes: OtherResonance, OtherResonance, OtherResonance, DIS
+Run: 91210005 	Subrun: 27 	Number of background events: 4 	Processes: QS, QS, OtherResonance, DIS
+Run: 91210005 	Subrun: 17 	Number of background events: 4 	Processes: QS, OtherResonance, OtherResonance, DIS
+Run: 91210006 	Subrun: 66 	Number of background events: 4 	Processes: QS, QS, QS, DIS
+Run: 91210009 	Subrun: 83 	Number of background events: 4 	Processes: QS, QS, ES, ES
+Run: 91210007 	Subrun: 25 	Number of background events: 4 	Processes: OtherResonance, OtherResonance, OtherResonance, DeltaPPi
+Run: 91210007 	Subrun: 92 	Number of background events: 4 	Processes: QS, QS, OtherResonance, DIS
+Run: 91210006 	Subrun: 92 	Number of background events: 4 	Processes: OtherResonance, OtherResonance, DIS, DIS
+Run: 91210003 	Subrun: 68 	Number of background events: 4 	Processes: QS, DIS, DIS, DIS
+Run: 91210010 	Subrun: 33 	Number of background events: 4 	Processes: QS, QS, OtherResonance, DIS
+Run: 91210010 	Subrun: 60 	Number of background events: 4 	Processes: QS, DIS, DIS, DIS
+Run: 91210002 	Subrun: 2 	Number of background events: 4 	Processes: OtherResonance, OtherResonance, OtherResonance, ES
+Run: 91210007 	Subrun: 61 	Number of background events: 4 	Processes: ES, DIS, DIS, DIS
+Run: 91210012 	Subrun: 65 	Number of background events: 4 	Processes: QS, QS, OtherResonance, DIS
+Run: 91210007 	Subrun: 68 	Number of background events: 4 	Processes: QS, QS, DIS, DIS
+Run: 91210007 	Subrun: 83 	Number of background events: 4 	Processes: QS, OtherResonance, DIS, DIS
+Run: 91210002 	Subrun: 95 	Number of background events: 4 	Processes: QS, DIS, DIS, DIS
+Run: 91210006 	Subrun: 48 	Number of background events: 4 	Processes: QS, QS, DeltaPPi, DIS
+Run: 91210006 	Subrun: 4 	Number of background events: 4 	Processes: QS, OtherResonance, OtherResonance, OtherResonance
+Run: 91210001 	Subrun: 38 	Number of background events: 4 	Processes: QS, DeltaPPi, DIS, DIS
+Run: 91210012 	Subrun: 53 	Number of background events: 4 	Processes: QS, ES, DIS, DIS
+Run: 91210007 	Subrun: 27 	Number of background events: 4 	Processes: QS, QS, DIS, DeltaPPi
+Run: 91210013 	Subrun: 66 	Number of background events: 4 	Processes: ES, DIS, DIS, DIS
+Run: 91210001 	Subrun: 98 	Number of background events: 4 	Processes: OtherResonance, DIS, DIS, DIS
+Run: 91210005 	Subrun: 42 	Number of background events: 4 	Processes: OtherResonance, DIS, DIS, DIS
+Run: 91210010 	Subrun: 7 	Number of background events: 4 	Processes: QS, OtherResonance, OtherResonance, ES
+Run: 91210000 	Subrun: 65 	Number of background events: 4 	Processes: QS, QS, QS, DIS
+Run: 91210000 	Subrun: 88 	Number of background events: 4 	Processes: QS, QS, QS, DIS
+Run: 91210010 	Subrun: 24 	Number of background events: 4 	Processes: QS, QS, OtherResonance, DIS
+Run: 91210011 	Subrun: 45 	Number of background events: 4 	Processes: OtherResonance, OtherResonance, OtherResonance, DIS
+Run: 91210002 	Subrun: 19 	Number of background events: 4 	Processes: QS, OtherResonance, OtherResonance, DIS
+Run: 91210003 	Subrun: 103 	Number of background events: 4 	Processes: QS, QS, ES, DIS
+Run: 91210005 	Subrun: 94 	Number of background events: 4 	Processes: DIS, OtherResonance, OtherResonance, DeltaPPi
+Run: 91210007 	Subrun: 106 	Number of background events: 4 	Processes: QS, OtherResonance, DIS, DIS
+Run: 91210002 	Subrun: 101 	Number of background events: 4 	Processes: QS, OtherResonance, ES, DIS
+Run: 91210005 	Subrun: 110 	Number of background events: 4 	Processes: QS, OtherResonance, OtherResonance, DIS
+Run: 91210005 	Subrun: 6 	Number of background events: 4 	Processes: OtherResonance, OtherResonance, OtherResonance, OtherResonance
+Run: 91210001 	Subrun: 54 	Number of background events: 4 	Processes: QS, QS, OtherResonance, DIS
+Run: 91210010 	Subrun: 32 	Number of background events: 4 	Processes: OtherResonance, OtherResonance, OtherResonance, OtherResonance
+Run: 91210002 	Subrun: 33 	Number of background events: 4 	Processes: QS, QS, QS, OtherResonance
+Run: 91210012 	Subrun: 15 	Number of background events: 4 	Processes: QS, OtherResonance, DIS, DIS
+Run: 91210012 	Subrun: 23 	Number of background events: 4 	Processes: QS, DIS, DIS, DeltaPPi
+Run: 91210013 	Subrun: 6 	Number of background events: 4 	Processes: OtherResonance, OtherResonance, OtherResonance, ES
+Run: 91210001 	Subrun: 77 	Number of background events: 4 	Processes: QS, OtherResonance, DIS, DIS
+Run: 91210008 	Subrun: 40 	Number of background events: 4 	Processes: QS, OtherResonance, ES, DeltaPPi
+Run: 91210006 	Subrun: 34 	Number of background events: 4 	Processes: QS, QS, OtherResonance, DIS
+Run: 91210007 	Subrun: 110 	Number of background events: 4 	Processes: QS, QS, ES, DIS
+Run: 91210008 	Subrun: 110 	Number of background events: 4 	Processes: QS, ES, DIS, DIS
+Run: 91210011 	Subrun: 105 	Number of background events: 4 	Processes: OtherResonance, OtherResonance, DIS, DIS
+Run: 91210009 	Subrun: 46 	Number of background events: 4 	Processes: QS, QS, QS, OtherResonance
+Run: 91210013 	Subrun: 57 	Number of background events: 4 	Processes: QS, QS, OtherResonance, DIS
+Run: 91210006 	Subrun: 10 	Number of background events: 4 	Processes: QS, QS, OtherResonance, DeltaPPi
+Run: 91210000 	Subrun: 73 	Number of background events: 4 	Processes: OtherResonance, OtherResonance, OtherResonance, DIS
+Run: 91210010 	Subrun: 13 	Number of background events: 4 	Processes: OtherResonance, OtherResonance, DIS, DIS
+Run: 91210002 	Subrun: 13 	Number of background events: 4 	Processes: OtherResonance, OtherResonance, OtherResonance, DIS
+Run: 91210000 	Subrun: 54 	Number of background events: 4 	Processes: QS, DIS, OtherResonance, DeltaPPi
+Run: 91210007 	Subrun: 33 	Number of background events: 4 	Processes: QS, DIS, OtherResonance, DeltaPPi
+Run: 91210012 	Subrun: 38 	Number of background events: 4 	Processes: QS, DIS, DeltaPPi, DeltaPPi
+Run: 91210012 	Subrun: 48 	Number of background events: 4 	Processes: QS, OtherResonance, OtherResonance, OtherResonance
+Run: 91210005 	Subrun: 86 	Number of background events: 4 	Processes: QS, OtherResonance, DIS, DIS
+Run: 91210005 	Subrun: 21 	Number of background events: 4 	Processes: QS, OtherResonance, OtherResonance, DIS
+Run: 91210006 	Subrun: 63 	Number of background events: 4 	Processes: QS, OtherResonance, DIS, DIS
+Run: 91210009 	Subrun: 68 	Number of background events: 4 	Processes: OtherResonance, OtherResonance, OtherResonance, OtherResonance
+Run: 91210002 	Subrun: 20 	Number of background events: 4 	Processes: QS, ES, DIS, DIS
+Run: 91210007 	Subrun: 107 	Number of background events: 4 	Processes: QS, OtherResonance, ES, DeltaPPi
+Run: 91210005 	Subrun: 35 	Number of background events: 4 	Processes: QS, QS, OtherResonance, OtherResonance
+Run: 91210002 	Subrun: 29 	Number of background events: 4 	Processes: QS, QS, OtherResonance, DIS
+Run: 91210006 	Subrun: 104 	Number of background events: 4 	Processes: DIS, DIS, OtherResonance, DeltaPPi
+Run: 91210006 	Subrun: 42 	Number of background events: 4 	Processes: QS, OtherResonance, ES, DIS
+Run: 91210007 	Subrun: 20 	Number of background events: 4 	Processes: OtherResonance, OtherResonance, DIS, DIS
+Run: 91210001 	Subrun: 57 	Number of background events: 4 	Processes: C, OtherResonance, ES, ES
+Run: 91210003 	Subrun: 67 	Number of background events: 4 	Processes: QS, QS, QS, OtherResonance
+Run: 91210002 	Subrun: 39 	Number of background events: 4 	Processes: QS, OtherResonance, OtherResonance, DIS
+Run: 91210011 	Subrun: 111 	Number of background events: 4 	Processes: QS, OtherResonance, DIS, DIS
+Run: 91210003 	Subrun: 75 	Number of background events: 4 	Processes: QS, QS, OtherResonance, DeltaPPi
+Run: 91210010 	Subrun: 48 	Number of background events: 4 	Processes: QS, OtherResonance, OtherResonance, OtherResonance
+Run: 91210010 	Subrun: 58 	Number of background events: 4 	Processes: QS, QS, DIS, DeltaPPi
+Run: 91210007 	Subrun: 86 	Number of background events: 4 	Processes: QS, QS, QS, OtherResonance
+Run: 91210003 	Subrun: 38 	Number of background events: 4 	Processes: QS, QS, OtherResonance, OtherResonance
+Run: 91210013 	Subrun: 80 	Number of background events: 4 	Processes: QS, OtherResonance, OtherResonance, DIS
+Run: 91210009 	Subrun: 105 	Number of background events: 4 	Processes: QS, QS, OtherResonance, DeltaPPi
+Run: 91210000 	Subrun: 95 	Number of background events: 4 	Processes: QS, DIS, OtherResonance, DeltaPPi
+Run: 91210008 	Subrun: 17 	Number of background events: 4 	Processes: QS, OtherResonance, DIS, DIS
+Run: 91210008 	Subrun: 27 	Number of background events: 4 	Processes: QS, QS, DIS, DIS
+Run: 91210007 	Subrun: 35 	Number of background events: 4 	Processes: QS, OtherResonance, OtherResonance, DeltaPPi
+Run: 91210010 	Subrun: 111 	Number of background events: 4 	Processes: QS, QS, QS, DIS
+Run: 91210000 	Subrun: 45 	Number of background events: 4 	Processes: QS, QS, OtherResonance, ES
+Run: 91210011 	Subrun: 32 	Number of background events: 4 	Processes: QS, DIS, DIS, DIS
+Run: 91210007 	Subrun: 19 	Number of background events: 4 	Processes: QS, OtherResonance, DIS, DIS
+Run: 91210008 	Subrun: 28 	Number of background events: 4 	Processes: OtherResonance, DIS, DIS, DIS
+Run: 91210008 	Subrun: 80 	Number of background events: 4 	Processes: QS, QS, QS, DIS
+Run: 91210005 	Subrun: 18 	Number of background events: 4 	Processes: QS, DIS, ES, DeltaPPi
+Run: 91210005 	Subrun: 29 	Number of background events: 4 	Processes: OtherResonance, OtherResonance, OtherResonance, DIS
+Run: 91210009 	Subrun: 14 	Number of background events: 4 	Processes: QS, QS, OtherResonance, DIS
+Run: 91210003 	Subrun: 59 	Number of background events: 4 	Processes: QS, ES, DIS, DIS
+Run: 91210009 	Subrun: 3 	Number of background events: 4 	Processes: QS, DIS, OtherResonance, DeltaPPi
+Run: 91210001 	Subrun: 68 	Number of background events: 4 	Processes: QS, DeltaPPi, DIS, DIS
+Run: 91210006 	Subrun: 95 	Number of background events: 4 	Processes: QS, OtherResonance, DIS, DIS
+Run: 91210013 	Subrun: 96 	Number of background events: 4 	Processes: OtherResonance, OtherResonance, DIS, DIS
+Run: 91210010 	Subrun: 89 	Number of background events: 4 	Processes: QS, OtherResonance, OtherResonance, DIS
+Run: 91210008 	Subrun: 92 	Number of background events: 4 	Processes: OtherResonance, OtherResonance, OtherResonance, DIS
+Run: 91210006 	Subrun: 33 	Number of background events: 4 	Processes: QS, OtherResonance, ES, DIS
+Run: 91210008 	Subrun: 42 	Number of background events: 4 	Processes: OtherResonance, OtherResonance, DIS, DIS
+Run: 91210013 	Subrun: 62 	Number of background events: 4 	Processes: QS, QS, OtherResonance, ES
+Run: 91210013 	Subrun: 106 	Number of background events: 4 	Processes: OtherResonance, DIS, DIS, DIS
+Run: 91210000 	Subrun: 87 	Number of background events: 4 	Processes: QS, QS, OtherResonance, DIS
+Run: 91210002 	Subrun: 72 	Number of background events: 4 	Processes: OtherResonance, OtherResonance, ES, DIS
+Run: 91210010 	Subrun: 107 	Number of background events: 4 	Processes: QS, OtherResonance, DIS, DIS
+Run: 91210004 	Subrun: 7 	Number of background events: 4 	Processes: QS, OtherResonance, OtherResonance, OtherResonance
+Run: 91210001 	Subrun: 8 	Number of background events: 4 	Processes: OtherResonance, OtherResonance, ES, DIS
+Run: 91210009 	Subrun: 7 	Number of background events: 4 	Processes: QS, DIS, DIS, DIS
+Run: 91210005 	Subrun: 43 	Number of background events: 4 	Processes: QS, QS, OtherResonance, DeltaPPi
+Run: 91210003 	Subrun: 1 	Number of background events: 4 	Processes: QS, QS, OtherResonance, DIS
+Run: 91210012 	Subrun: 37 	Number of background events: 4 	Processes: OtherResonance, OtherResonance, OtherResonance, DIS
+Run: 91210007 	Subrun: 101 	Number of background events: 4 	Processes: OtherResonance, OtherResonance, OtherResonance, DIS
+Run: 91210007 	Subrun: 73 	Number of background events: 4 	Processes: QS, OtherResonance, OtherResonance, DIS
+Run: 91210001 	Subrun: 86 	Number of background events: 4 	Processes: QS, QS, ES, DIS
+Run: 91210003 	Subrun: 62 	Number of background events: 4 	Processes: OtherResonance, OtherResonance, OtherResonance, DIS
+Run: 91210012 	Subrun: 84 	Number of background events: 4 	Processes: QS, QS, OtherResonance, OtherResonance
+Run: 91210012 	Subrun: 8 	Number of background events: 4 	Processes: QS, DIS, DIS, DIS
+Run: 91210008 	Subrun: 60 	Number of background events: 4 	Processes: QS, QS, OtherResonance, DIS
+Run: 91210010 	Subrun: 96 	Number of background events: 4 	Processes: QS, DeltaPPi, OtherResonance, DIS
+Run: 91210001 	Subrun: 84 	Number of background events: 4 	Processes: QS, QS, QS, QS
+Run: 91210008 	Subrun: 93 	Number of background events: 4 	Processes: QS, QS, DIS, DeltaPPi
+Run: 91210007 	Subrun: 62 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210000 	Subrun: 4 	Number of background events: 3 	Processes: QS, QS, QS
+Run: 91210003 	Subrun: 91 	Number of background events: 3 	Processes: OtherResonance, DIS, DIS
+Run: 91210004 	Subrun: 0 	Number of background events: 3 	Processes: DIS, DIS, DIS
+Run: 91210011 	Subrun: 52 	Number of background events: 3 	Processes: QS, QS, OtherResonance
+Run: 91210012 	Subrun: 69 	Number of background events: 3 	Processes: QS, DIS, DIS
+Run: 91210003 	Subrun: 17 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210009 	Subrun: 42 	Number of background events: 3 	Processes: OtherResonance, OtherResonance, DIS
+Run: 91210002 	Subrun: 40 	Number of background events: 3 	Processes: QS, QS, DIS
+Run: 91210001 	Subrun: 32 	Number of background events: 3 	Processes: QS, OtherResonance, OtherResonance
+Run: 91210002 	Subrun: 91 	Number of background events: 3 	Processes: QS, OtherResonance, ES
+Run: 91210009 	Subrun: 110 	Number of background events: 3 	Processes: QS, OtherResonance, OtherResonance
+Run: 91210004 	Subrun: 70 	Number of background events: 3 	Processes: QS, DIS, DIS
+Run: 91210012 	Subrun: 107 	Number of background events: 3 	Processes: QS, OtherResonance, OtherResonance
+Run: 91210013 	Subrun: 82 	Number of background events: 3 	Processes: QS, OtherResonance, ES
+Run: 91210013 	Subrun: 52 	Number of background events: 3 	Processes: QS, QS, OtherResonance
+Run: 91210012 	Subrun: 93 	Number of background events: 3 	Processes: QS, DeltaPPi, DIS
+Run: 91210012 	Subrun: 58 	Number of background events: 3 	Processes: OtherResonance, OtherResonance, DIS
+Run: 91210010 	Subrun: 17 	Number of background events: 3 	Processes: QS, QS, DIS
+Run: 91210000 	Subrun: 61 	Number of background events: 3 	Processes: DIS, DIS, DIS
+Run: 91210011 	Subrun: 0 	Number of background events: 3 	Processes: C, OtherResonance, DIS
+Run: 91210010 	Subrun: 28 	Number of background events: 3 	Processes: OtherResonance, OtherResonance, DIS
+Run: 91210000 	Subrun: 47 	Number of background events: 3 	Processes: OtherResonance, ES, DIS
+Run: 91210003 	Subrun: 82 	Number of background events: 3 	Processes: QS, QS, QS
+Run: 91210003 	Subrun: 100 	Number of background events: 3 	Processes: QS, OtherResonance, DeltaPPi
+Run: 91210005 	Subrun: 38 	Number of background events: 3 	Processes: QS, QS, DIS
+Run: 91210005 	Subrun: 15 	Number of background events: 3 	Processes: QS, DeltaPPi, DIS
+Run: 91210001 	Subrun: 40 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210002 	Subrun: 4 	Number of background events: 3 	Processes: QS, OtherResonance, OtherResonance
+Run: 91210009 	Subrun: 29 	Number of background events: 3 	Processes: OtherResonance, DIS, DIS
+Run: 91210007 	Subrun: 102 	Number of background events: 3 	Processes: OtherResonance, DIS, DIS
+Run: 91210002 	Subrun: 86 	Number of background events: 3 	Processes: OtherResonance, OtherResonance, DIS
+Run: 91210007 	Subrun: 72 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210001 	Subrun: 87 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210012 	Subrun: 82 	Number of background events: 3 	Processes: C, QS, ES
+Run: 91210010 	Subrun: 38 	Number of background events: 3 	Processes: OtherResonance, OtherResonance, DIS
+Run: 91210013 	Subrun: 26 	Number of background events: 3 	Processes: QS, QS, OtherResonance
+Run: 91210010 	Subrun: 39 	Number of background events: 3 	Processes: OtherResonance, OtherResonance, OtherResonance
+Run: 91210001 	Subrun: 89 	Number of background events: 3 	Processes: DIS, DIS, DIS
+Run: 91210002 	Subrun: 34 	Number of background events: 3 	Processes: OtherResonance, DIS, DIS
+Run: 91210006 	Subrun: 97 	Number of background events: 3 	Processes: QS, DIS, DeltaPPi
+Run: 91210001 	Subrun: 79 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210012 	Subrun: 20 	Number of background events: 3 	Processes: OtherResonance, OtherResonance, OtherResonance
+Run: 91210007 	Subrun: 63 	Number of background events: 3 	Processes: OtherResonance, OtherResonance, DIS
+Run: 91210012 	Subrun: 63 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210007 	Subrun: 7 	Number of background events: 3 	Processes: OtherResonance, DIS, DIS
+Run: 91210007 	Subrun: 81 	Number of background events: 3 	Processes: QS, QS, QS
+Run: 91210011 	Subrun: 86 	Number of background events: 3 	Processes: QS, QS, DIS
+Run: 91210009 	Subrun: 43 	Number of background events: 3 	Processes: QS, QS, DIS
+Run: 91210002 	Subrun: 92 	Number of background events: 3 	Processes: DIS, OtherResonance, DeltaPPi
+Run: 91210006 	Subrun: 86 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210012 	Subrun: 5 	Number of background events: 3 	Processes: QS, QS, OtherResonance
+Run: 91210007 	Subrun: 41 	Number of background events: 3 	Processes: DIS, DIS, DIS
+Run: 91210000 	Subrun: 3 	Number of background events: 3 	Processes: QS, OtherResonance, ES
+Run: 91210006 	Subrun: 8 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210008 	Subrun: 37 	Number of background events: 3 	Processes: QS, ES, DIS
+Run: 91210003 	Subrun: 44 	Number of background events: 3 	Processes: QS, QS, DIS
+Run: 91210000 	Subrun: 36 	Number of background events: 3 	Processes: OtherResonance, OtherResonance, ES
+Run: 91210012 	Subrun: 7 	Number of background events: 3 	Processes: QS, OtherResonance, OtherResonance
+Run: 91210003 	Subrun: 32 	Number of background events: 3 	Processes: OtherResonance, OtherResonance, DeltaPPi
+Run: 91210012 	Subrun: 51 	Number of background events: 3 	Processes: QS, QS, OtherResonance
+Run: 91210013 	Subrun: 60 	Number of background events: 3 	Processes: QS, DIS, DIS
+Run: 91210010 	Subrun: 1 	Number of background events: 3 	Processes: QS, OtherResonance, OtherResonance
+Run: 91210010 	Subrun: 16 	Number of background events: 3 	Processes: ES, DIS, DIS
+Run: 91210001 	Subrun: 0 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210006 	Subrun: 14 	Number of background events: 3 	Processes: QS, OtherResonance, ES
+Run: 91210000 	Subrun: 77 	Number of background events: 3 	Processes: QS, QS, OtherResonance
+Run: 91210005 	Subrun: 88 	Number of background events: 3 	Processes: QS, OtherResonance, ES
+Run: 91210011 	Subrun: 47 	Number of background events: 3 	Processes: QS, QS, DIS
+Run: 91210009 	Subrun: 66 	Number of background events: 3 	Processes: OtherResonance, OtherResonance, DIS
+Run: 91210001 	Subrun: 10 	Number of background events: 3 	Processes: QS, ES, DeltaPPi
+Run: 91210011 	Subrun: 40 	Number of background events: 3 	Processes: QS, DIS, DIS
+Run: 91210011 	Subrun: 49 	Number of background events: 3 	Processes: QS, ES, DIS
+Run: 91210011 	Subrun: 96 	Number of background events: 3 	Processes: QS, QS, OtherResonance
+Run: 91210012 	Subrun: 88 	Number of background events: 3 	Processes: DIS, DIS, DeltaPPi
+Run: 91210003 	Subrun: 60 	Number of background events: 3 	Processes: QS, DeltaPPi, DIS
+Run: 91210013 	Subrun: 25 	Number of background events: 3 	Processes: QS, QS, QS
+Run: 91210001 	Subrun: 101 	Number of background events: 3 	Processes: QS, QS, DIS
+Run: 91210009 	Subrun: 75 	Number of background events: 3 	Processes: OtherResonance, DIS, DIS
+Run: 91210008 	Subrun: 65 	Number of background events: 3 	Processes: DIS, DIS, DIS
+Run: 91210007 	Subrun: 93 	Number of background events: 3 	Processes: QS, QS, DIS
+Run: 91210013 	Subrun: 92 	Number of background events: 3 	Processes: OtherResonance, ES, DIS
+Run: 91210011 	Subrun: 19 	Number of background events: 3 	Processes: QS, DIS, DIS
+Run: 91210001 	Subrun: 108 	Number of background events: 3 	Processes: OtherResonance, DIS, DIS
+Run: 91210012 	Subrun: 13 	Number of background events: 3 	Processes: DIS, DIS, DIS
+Run: 91210010 	Subrun: 74 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210001 	Subrun: 78 	Number of background events: 3 	Processes: QS, OtherResonance, OtherResonance
+Run: 91210012 	Subrun: 21 	Number of background events: 3 	Processes: OtherResonance, OtherResonance, DIS
+Run: 91210010 	Subrun: 84 	Number of background events: 3 	Processes: OtherResonance, OtherResonance, DeltaPPi
+Run: 91210011 	Subrun: 6 	Number of background events: 3 	Processes: OtherResonance, OtherResonance, DIS
+Run: 91210010 	Subrun: 94 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210011 	Subrun: 17 	Number of background events: 3 	Processes: QS, QS, ES
+Run: 91210003 	Subrun: 25 	Number of background events: 3 	Processes: QS, OtherResonance, OtherResonance
+Run: 91210002 	Subrun: 55 	Number of background events: 3 	Processes: QS, QS, DIS
+Run: 91210010 	Subrun: 43 	Number of background events: 3 	Processes: QS, DIS, DIS
+Run: 91210012 	Subrun: 110 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210006 	Subrun: 39 	Number of background events: 3 	Processes: QS, OtherResonance, ES
+Run: 91210013 	Subrun: 43 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210006 	Subrun: 85 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210008 	Subrun: 9 	Number of background events: 3 	Processes: QS, OtherResonance, OtherResonance
+Run: 91210008 	Subrun: 30 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210006 	Subrun: 74 	Number of background events: 3 	Processes: QS, OtherResonance, DeltaPPi
+Run: 91210003 	Subrun: 35 	Number of background events: 3 	Processes: QS, QS, DIS
+Run: 91210002 	Subrun: 61 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210013 	Subrun: 67 	Number of background events: 3 	Processes: QS, DIS, DeltaPPi
+Run: 91210009 	Subrun: 53 	Number of background events: 3 	Processes: QS, QS, DIS
+Run: 91210008 	Subrun: 109 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210000 	Subrun: 97 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210013 	Subrun: 50 	Number of background events: 3 	Processes: OtherResonance, ES, DIS
+Run: 91210013 	Subrun: 74 	Number of background events: 3 	Processes: QS, OtherResonance, ES
+Run: 91210002 	Subrun: 71 	Number of background events: 3 	Processes: QS, QS, DIS
+Run: 91210010 	Subrun: 15 	Number of background events: 3 	Processes: OtherResonance, OtherResonance, DIS
+Run: 91210008 	Subrun: 22 	Number of background events: 3 	Processes: QS, OtherResonance, OtherResonance
+Run: 91210000 	Subrun: 40 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210006 	Subrun: 15 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210005 	Subrun: 89 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210006 	Subrun: 68 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210008 	Subrun: 77 	Number of background events: 3 	Processes: QS, QS, OtherResonance
+Run: 91210007 	Subrun: 56 	Number of background events: 3 	Processes: OtherResonance, DIS, DIS
+Run: 91210003 	Subrun: 102 	Number of background events: 3 	Processes: DIS, DIS, DIS
+Run: 91210005 	Subrun: 80 	Number of background events: 3 	Processes: QS, QS, DIS
+Run: 91210006 	Subrun: 61 	Number of background events: 3 	Processes: QS, QS, OtherResonance
+Run: 91210007 	Subrun: 105 	Number of background events: 3 	Processes: QS, QS, DIS
+Run: 91210012 	Subrun: 45 	Number of background events: 3 	Processes: QS, QS, OtherResonance
+Run: 91210005 	Subrun: 37 	Number of background events: 3 	Processes: OtherResonance, ES, DIS
+Run: 91210012 	Subrun: 77 	Number of background events: 3 	Processes: QS, QS, OtherResonance
+Run: 91210012 	Subrun: 89 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210011 	Subrun: 73 	Number of background events: 3 	Processes: OtherResonance, OtherResonance, DIS
+Run: 91210003 	Subrun: 55 	Number of background events: 3 	Processes: QS, OtherResonance, OtherResonance
+Run: 91210003 	Subrun: 61 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210004 	Subrun: 4 	Number of background events: 3 	Processes: QS, QS, DIS
+Run: 91210013 	Subrun: 24 	Number of background events: 3 	Processes: QS, QS, OtherResonance
+Run: 91210009 	Subrun: 90 	Number of background events: 3 	Processes: OtherResonance, OtherResonance, OtherResonance
+Run: 91210010 	Subrun: 77 	Number of background events: 3 	Processes: OtherResonance, OtherResonance, DeltaPPi
+Run: 91210001 	Subrun: 63 	Number of background events: 3 	Processes: QS, OtherResonance, OtherResonance
+Run: 91210000 	Subrun: 29 	Number of background events: 3 	Processes: OtherResonance, DIS, DIS
+Run: 91210003 	Subrun: 70 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210003 	Subrun: 22 	Number of background events: 3 	Processes: QS, DIS, DeltaPPi
+Run: 91210011 	Subrun: 56 	Number of background events: 3 	Processes: QS, DeltaPPi, DIS
+Run: 91210000 	Subrun: 110 	Number of background events: 3 	Processes: QS, QS, ES
+Run: 91210003 	Subrun: 96 	Number of background events: 3 	Processes: QS, QS, DIS
+Run: 91210005 	Subrun: 55 	Number of background events: 3 	Processes: QS, QS, DIS
+Run: 91210010 	Subrun: 54 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210012 	Subrun: 108 	Number of background events: 3 	Processes: QS, QS, OtherResonance
+Run: 91210006 	Subrun: 75 	Number of background events: 3 	Processes: QS, OtherResonance, OtherResonance
+Run: 91210002 	Subrun: 69 	Number of background events: 3 	Processes: QS, QS, OtherResonance
+Run: 91210013 	Subrun: 75 	Number of background events: 3 	Processes: QS, OtherResonance, DeltaPPi
+Run: 91210010 	Subrun: 104 	Number of background events: 3 	Processes: QS, OtherResonance, DeltaPPi
+Run: 91210000 	Subrun: 83 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210011 	Subrun: 27 	Number of background events: 3 	Processes: QS, DIS, DeltaPPi
+Run: 91210007 	Subrun: 12 	Number of background events: 3 	Processes: ES, DIS, DIS
+Run: 91210000 	Subrun: 72 	Number of background events: 3 	Processes: QS, DIS, DIS
+Run: 91210002 	Subrun: 76 	Number of background events: 3 	Processes: QS, OtherResonance, DeltaPPi
+Run: 91210008 	Subrun: 21 	Number of background events: 3 	Processes: QS, QS, DIS
+Run: 91210010 	Subrun: 103 	Number of background events: 3 	Processes: OtherResonance, DIS, DIS
+Run: 91210002 	Subrun: 12 	Number of background events: 3 	Processes: DIS, DIS, DIS
+Run: 91210000 	Subrun: 57 	Number of background events: 3 	Processes: DIS, DIS, DIS
+Run: 91210008 	Subrun: 78 	Number of background events: 3 	Processes: OtherResonance, OtherResonance, DIS
+Run: 91210000 	Subrun: 48 	Number of background events: 3 	Processes: DIS, DIS, DIS
+Run: 91210011 	Subrun: 37 	Number of background events: 3 	Processes: QS, QS, DIS
+Run: 91210005 	Subrun: 81 	Number of background events: 3 	Processes: QS, OtherResonance, OtherResonance
+Run: 91210001 	Subrun: 12 	Number of background events: 3 	Processes: OtherResonance, DIS, DIS
+Run: 91210005 	Subrun: 20 	Number of background events: 3 	Processes: QS, OtherResonance, DeltaPPi
+Run: 91210012 	Subrun: 32 	Number of background events: 3 	Processes: QS, OtherResonance, DeltaPPi
+Run: 91210009 	Subrun: 89 	Number of background events: 3 	Processes: QS, OtherResonance, DeltaPPi
+Run: 91210005 	Subrun: 36 	Number of background events: 3 	Processes: QS, OtherResonance, DeltaPPi
+Run: 91210012 	Subrun: 76 	Number of background events: 3 	Processes: QS, DIS, DIS
+Run: 91210011 	Subrun: 98 	Number of background events: 3 	Processes: QS, DeltaPPi, DIS
+Run: 91210006 	Subrun: 50 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210009 	Subrun: 8 	Number of background events: 3 	Processes: QS, OtherResonance, DeltaPPi
+Run: 91210005 	Subrun: 45 	Number of background events: 3 	Processes: QS, OtherResonance, ES
+Run: 91210013 	Subrun: 2 	Number of background events: 3 	Processes: QS, OtherResonance, OtherResonance
+Run: 91210006 	Subrun: 93 	Number of background events: 3 	Processes: QS, OtherResonance, ES
+Run: 91210013 	Subrun: 90 	Number of background events: 3 	Processes: OtherResonance, OtherResonance, DIS
+Run: 91210009 	Subrun: 18 	Number of background events: 3 	Processes: DeltaPPi, OtherResonance, DIS
+Run: 91210010 	Subrun: 61 	Number of background events: 3 	Processes: QS, QS, OtherResonance
+Run: 91210010 	Subrun: 99 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210011 	Subrun: 12 	Number of background events: 3 	Processes: QS, QS, QS
+Run: 91210010 	Subrun: 76 	Number of background events: 3 	Processes: OtherResonance, ES, DIS
+Run: 91210010 	Subrun: 86 	Number of background events: 3 	Processes: QS, QS, OtherResonance
+Run: 91210000 	Subrun: 28 	Number of background events: 3 	Processes: QS, DIS, DIS
+Run: 91210002 	Subrun: 50 	Number of background events: 3 	Processes: OtherResonance, OtherResonance, DIS
+Run: 91210002 	Subrun: 111 	Number of background events: 3 	Processes: OtherResonance, OtherResonance, DIS
+Run: 91210013 	Subrun: 17 	Number of background events: 3 	Processes: QS, DIS, DIS
+Run: 91210002 	Subrun: 43 	Number of background events: 3 	Processes: QS, QS, OtherResonance
+Run: 91210001 	Subrun: 35 	Number of background events: 3 	Processes: OtherResonance, OtherResonance, DIS
+Run: 91210007 	Subrun: 44 	Number of background events: 3 	Processes: QS, QS, DIS
+Run: 91210001 	Subrun: 95 	Number of background events: 3 	Processes: DIS, DIS, DIS
+Run: 91210008 	Subrun: 32 	Number of background events: 3 	Processes: ES, DIS, DIS
+Run: 91210006 	Subrun: 72 	Number of background events: 3 	Processes: QS, OtherResonance, ES
+Run: 91210012 	Subrun: 52 	Number of background events: 3 	Processes: QS, QS, QS
+Run: 91210001 	Subrun: 92 	Number of background events: 3 	Processes: QS, QS, OtherResonance
+Run: 91210002 	Subrun: 63 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210000 	Subrun: 38 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210000 	Subrun: 85 	Number of background events: 3 	Processes: QS, DIS, DIS
+Run: 91210009 	Subrun: 55 	Number of background events: 3 	Processes: QS, OtherResonance, ES
+Run: 91210006 	Subrun: 19 	Number of background events: 3 	Processes: QS, OtherResonance, OtherResonance
+Run: 91210013 	Subrun: 76 	Number of background events: 3 	Processes: QS, DIS, DIS
+Run: 91210003 	Subrun: 88 	Number of background events: 3 	Processes: QS, OtherResonance, OtherResonance
+Run: 91210008 	Subrun: 72 	Number of background events: 3 	Processes: QS, QS, OtherResonance
+Run: 91210005 	Subrun: 76 	Number of background events: 3 	Processes: DeltaPPi, DIS, DIS
+Run: 91210008 	Subrun: 88 	Number of background events: 3 	Processes: QS, QS, DeltaPPi
+Run: 91210011 	Subrun: 64 	Number of background events: 3 	Processes: QS, DIS, DIS
+Run: 91210006 	Subrun: 17 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210008 	Subrun: 29 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210005 	Subrun: 7 	Number of background events: 3 	Processes: QS, QS, OtherResonance
+Run: 91210005 	Subrun: 97 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210005 	Subrun: 78 	Number of background events: 3 	Processes: QS, OtherResonance, ES
+Run: 91210011 	Subrun: 92 	Number of background events: 3 	Processes: QS, QS, OtherResonance
+Run: 91210000 	Subrun: 63 	Number of background events: 3 	Processes: QS, OtherResonance, DeltaPPi
+Run: 91210007 	Subrun: 71 	Number of background events: 3 	Processes: OtherResonance, OtherResonance, DIS
+Run: 91210006 	Subrun: 58 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210003 	Subrun: 53 	Number of background events: 3 	Processes: QS, QS, OtherResonance
+Run: 91210010 	Subrun: 67 	Number of background events: 3 	Processes: DIS, DIS, DIS
+Run: 91210007 	Subrun: 90 	Number of background events: 3 	Processes: QS, QS, QS
+Run: 91210013 	Subrun: 91 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210001 	Subrun: 29 	Number of background events: 3 	Processes: QS, OtherResonance, ES
+Run: 91210009 	Subrun: 92 	Number of background events: 3 	Processes: QS, DIS, DIS
+Run: 91210002 	Subrun: 51 	Number of background events: 3 	Processes: QS, DIS, DeltaPPi
+Run: 91210013 	Subrun: 14 	Number of background events: 3 	Processes: QS, DIS, DeltaPPi
+Run: 91210012 	Subrun: 2 	Number of background events: 3 	Processes: C, OtherResonance, DIS
+Run: 91210003 	Subrun: 20 	Number of background events: 3 	Processes: OtherResonance, DIS, DIS
+Run: 91210006 	Subrun: 32 	Number of background events: 3 	Processes: OtherResonance, DeltaPPi, DeltaPPi
+Run: 91210008 	Subrun: 8 	Number of background events: 3 	Processes: QS, OtherResonance, OtherResonance
+Run: 91210003 	Subrun: 93 	Number of background events: 3 	Processes: QS, OtherResonance, OtherResonance
+Run: 91210006 	Subrun: 44 	Number of background events: 3 	Processes: DIS, OtherResonance, DeltaPPi
+Run: 91210013 	Subrun: 1 	Number of background events: 3 	Processes: OtherResonance, ES, DIS
+Run: 91210008 	Subrun: 43 	Number of background events: 3 	Processes: QS, QS, DIS
+Run: 91210011 	Subrun: 103 	Number of background events: 3 	Processes: OtherResonance, OtherResonance, DIS
+Run: 91210009 	Subrun: 33 	Number of background events: 3 	Processes: QS, OtherResonance, OtherResonance
+Run: 91210011 	Subrun: 104 	Number of background events: 3 	Processes: OtherResonance, DIS, DIS
+Run: 91210008 	Subrun: 34 	Number of background events: 3 	Processes: QS, QS, OtherResonance
+Run: 91210006 	Subrun: 78 	Number of background events: 3 	Processes: QS, QS, DIS
+Run: 91210003 	Subrun: 49 	Number of background events: 3 	Processes: QS, DIS, DIS
+Run: 91210008 	Subrun: 2 	Number of background events: 3 	Processes: OtherResonance, DIS, DIS
+Run: 91210001 	Subrun: 94 	Number of background events: 3 	Processes: QS, OtherResonance, DeltaPPi
+Run: 91210013 	Subrun: 63 	Number of background events: 3 	Processes: QS, DIS, DIS
+Run: 91210001 	Subrun: 7 	Number of background events: 3 	Processes: OtherResonance, OtherResonance, DIS
+Run: 91210013 	Subrun: 64 	Number of background events: 3 	Processes: QS, OtherResonance, OtherResonance
+Run: 91210001 	Subrun: 21 	Number of background events: 3 	Processes: QS, DIS, DIS
+Run: 91210009 	Subrun: 54 	Number of background events: 3 	Processes: QS, QS, OtherResonance
+Run: 91210007 	Subrun: 100 	Number of background events: 3 	Processes: QS, DIS, DeltaPPi
+Run: 91210007 	Subrun: 59 	Number of background events: 3 	Processes: OtherResonance, DIS, DIS
+Run: 91210006 	Subrun: 11 	Number of background events: 3 	Processes: QS, OtherResonance, OtherResonance
+Run: 91210005 	Subrun: 98 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210010 	Subrun: 12 	Number of background events: 3 	Processes: OtherResonance, OtherResonance, DeltaPPi
+Run: 91210005 	Subrun: 60 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210005 	Subrun: 67 	Number of background events: 3 	Processes: QS, OtherResonance, DeltaPPi
+Run: 91210003 	Subrun: 105 	Number of background events: 3 	Processes: QS, QS, DIS
+Run: 91210006 	Subrun: 62 	Number of background events: 3 	Processes: DeltaPPi, OtherResonance, DIS
+Run: 91210011 	Subrun: 93 	Number of background events: 3 	Processes: QS, QS, OtherResonance
+Run: 91210002 	Subrun: 23 	Number of background events: 3 	Processes: QS, OtherResonance, OtherResonance
+Run: 91210009 	Subrun: 87 	Number of background events: 3 	Processes: QS, DIS, DIS
+Run: 91210012 	Subrun: 40 	Number of background events: 3 	Processes: OtherResonance, OtherResonance, DeltaPPi
+Run: 91210002 	Subrun: 88 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210011 	Subrun: 77 	Number of background events: 3 	Processes: C, QS, ES
+Run: 91210012 	Subrun: 74 	Number of background events: 3 	Processes: QS, QS, DIS
+Run: 91210002 	Subrun: 81 	Number of background events: 3 	Processes: QS, DIS, DIS
+Run: 91210001 	Subrun: 51 	Number of background events: 3 	Processes: QS, OtherResonance, DeltaPPi
+Run: 91210013 	Subrun: 36 	Number of background events: 3 	Processes: QS, DIS, DIS
+Run: 91210009 	Subrun: 70 	Number of background events: 3 	Processes: QS, QS, DIS
+Run: 91210012 	Subrun: 87 	Number of background events: 3 	Processes: OtherResonance, OtherResonance, DIS
+Run: 91210006 	Subrun: 59 	Number of background events: 3 	Processes: QS, OtherResonance, DeltaPPi
+Run: 91210003 	Subrun: 52 	Number of background events: 3 	Processes: OtherResonance, ES, DIS
+Run: 91210000 	Subrun: 105 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210008 	Subrun: 16 	Number of background events: 3 	Processes: QS, DIS, DIS
+Run: 91210005 	Subrun: 4 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210012 	Subrun: 26 	Number of background events: 3 	Processes: DIS, DIS, DIS
+Run: 91210010 	Subrun: 78 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210005 	Subrun: 9 	Number of background events: 3 	Processes: QS, QS, DIS
+Run: 91210003 	Subrun: 74 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210010 	Subrun: 80 	Number of background events: 3 	Processes: DIS, DIS, DIS
+Run: 91210010 	Subrun: 9 	Number of background events: 3 	Processes: DIS, DIS, DIS
+Run: 91210000 	Subrun: 17 	Number of background events: 3 	Processes: OtherResonance, ES, DIS
+Run: 91210013 	Subrun: 15 	Number of background events: 3 	Processes: QS, DeltaPPi, DIS
+Run: 91210012 	Subrun: 61 	Number of background events: 3 	Processes: QS, QS, DIS
+Run: 91210012 	Subrun: 68 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210003 	Subrun: 28 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210010 	Subrun: 47 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210011 	Subrun: 80 	Number of background events: 3 	Processes: DeltaPPi, OtherResonance, DIS
+Run: 91210003 	Subrun: 111 	Number of background events: 3 	Processes: QS, ES, DIS
+Run: 91210001 	Subrun: 110 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210002 	Subrun: 90 	Number of background events: 3 	Processes: OtherResonance, OtherResonance, DIS
+Run: 91210006 	Subrun: 80 	Number of background events: 3 	Processes: ES, DIS, DIS
+Run: 91210011 	Subrun: 89 	Number of background events: 3 	Processes: QS, ES, ES
+Run: 91210010 	Subrun: 0 	Number of background events: 3 	Processes: QS, OtherResonance, DeltaPPi
+Run: 91210008 	Subrun: 35 	Number of background events: 3 	Processes: QS, ES, DIS
+Run: 91210000 	Subrun: 34 	Number of background events: 3 	Processes: QS, OtherResonance, OtherResonance
+Run: 91210012 	Subrun: 57 	Number of background events: 3 	Processes: OtherResonance, OtherResonance, DIS
+Run: 91210002 	Subrun: 64 	Number of background events: 3 	Processes: QS, OtherResonance, OtherResonance
+Run: 91210006 	Subrun: 70 	Number of background events: 3 	Processes: QS, ES, DIS
+Run: 91210000 	Subrun: 33 	Number of background events: 3 	Processes: QS, QS, DIS
+Run: 91210009 	Subrun: 102 	Number of background events: 3 	Processes: OtherResonance, OtherResonance, DIS
+Run: 91210013 	Subrun: 55 	Number of background events: 3 	Processes: OtherResonance, OtherResonance, OtherResonance
+Run: 91210000 	Subrun: 69 	Number of background events: 3 	Processes: OtherResonance, DIS, DIS
+Run: 91210002 	Subrun: 1 	Number of background events: 3 	Processes: QS, QS, DIS
+Run: 91210000 	Subrun: 62 	Number of background events: 3 	Processes: DIS, DIS, DIS
+Run: 91210008 	Subrun: 102 	Number of background events: 3 	Processes: QS, QS, DIS
+Run: 91210006 	Subrun: 52 	Number of background events: 3 	Processes: OtherResonance, DIS, DIS
+Run: 91210006 	Subrun: 12 	Number of background events: 3 	Processes: QS, QS, DIS
+Run: 91210000 	Subrun: 75 	Number of background events: 3 	Processes: QS, QS, OtherResonance
+Run: 91210010 	Subrun: 11 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210001 	Subrun: 19 	Number of background events: 3 	Processes: DIS, OtherResonance, DeltaPPi
+Run: 91210008 	Subrun: 74 	Number of background events: 3 	Processes: ES, DIS, DIS
+Run: 91210003 	Subrun: 81 	Number of background events: 3 	Processes: QS, DIS, DIS
+Run: 91210005 	Subrun: 90 	Number of background events: 3 	Processes: QS, QS, OtherResonance
+Run: 91210009 	Subrun: 63 	Number of background events: 3 	Processes: QS, QS, OtherResonance
+Run: 91210011 	Subrun: 34 	Number of background events: 3 	Processes: QS, QS, OtherResonance
+Run: 91210012 	Subrun: 0 	Number of background events: 3 	Processes: QS, QS, OtherResonance
+Run: 91210006 	Subrun: 54 	Number of background events: 3 	Processes: QS, QS, QS
+Run: 91210012 	Subrun: 73 	Number of background events: 3 	Processes: OtherResonance, ES, DIS
+Run: 91210005 	Subrun: 107 	Number of background events: 3 	Processes: QS, QS, DeltaPPi
+Run: 91210001 	Subrun: 81 	Number of background events: 3 	Processes: QS, QS, DIS
+Run: 91210013 	Subrun: 27 	Number of background events: 3 	Processes: OtherResonance, OtherResonance, DeltaPPi
+Run: 91210009 	Subrun: 77 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210007 	Subrun: 95 	Number of background events: 3 	Processes: QS, QS, QS
+Run: 91210002 	Subrun: 37 	Number of background events: 3 	Processes: QS, DIS, DIS
+Run: 91210008 	Subrun: 98 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210010 	Subrun: 72 	Number of background events: 3 	Processes: QS, OtherResonance, DIS
+Run: 91210012 	Subrun: 27 	Number of background events: 3 	Processes: ES, DIS, DIS
+Run: 91210003 	Subrun: 77 	Number of background events: 3 	Processes: OtherResonance, DIS, DIS
+Run: 91210003 	Subrun: 98 	Number of background events: 2 	Processes: ES, ES
+Run: 91210000 	Subrun: 14 	Number of background events: 2 	Processes: QS, QS
+Run: 91210006 	Subrun: 30 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210007 	Subrun: 89 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210010 	Subrun: 41 	Number of background events: 2 	Processes: DIS, DeltaPPi
+Run: 91210008 	Subrun: 52 	Number of background events: 2 	Processes: QS, QS
+Run: 91210005 	Subrun: 58 	Number of background events: 2 	Processes: DIS, DIS
+Run: 91210010 	Subrun: 57 	Number of background events: 2 	Processes: DeltaPPi, DIS
+Run: 91210009 	Subrun: 38 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210008 	Subrun: 45 	Number of background events: 2 	Processes: DIS, DIS
+Run: 91210008 	Subrun: 55 	Number of background events: 2 	Processes: QS, DeltaPPi
+Run: 91210007 	Subrun: 49 	Number of background events: 2 	Processes: OtherResonance, DeltaPPi
+Run: 91210011 	Subrun: 87 	Number of background events: 2 	Processes: QS, ES
+Run: 91210011 	Subrun: 59 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210013 	Subrun: 41 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210012 	Subrun: 59 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210009 	Subrun: 45 	Number of background events: 2 	Processes: DIS, DIS
+Run: 91210003 	Subrun: 33 	Number of background events: 2 	Processes: OtherResonance, OtherResonance
+Run: 91210009 	Subrun: 108 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210012 	Subrun: 56 	Number of background events: 2 	Processes: QS, ES
+Run: 91210002 	Subrun: 67 	Number of background events: 2 	Processes: QS, DeltaPPi
+Run: 91210004 	Subrun: 16 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210009 	Subrun: 103 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210000 	Subrun: 68 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210001 	Subrun: 23 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210009 	Subrun: 56 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210008 	Subrun: 104 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210002 	Subrun: 17 	Number of background events: 2 	Processes: QS, DeltaPPi
+Run: 91210010 	Subrun: 10 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210011 	Subrun: 30 	Number of background events: 2 	Processes: QS, QS
+Run: 91210005 	Subrun: 82 	Number of background events: 2 	Processes: DeltaPPi, DIS
+Run: 91210009 	Subrun: 22 	Number of background events: 2 	Processes: QS, QS
+Run: 91210012 	Subrun: 47 	Number of background events: 2 	Processes: QS, DeltaPPi
+Run: 91210003 	Subrun: 107 	Number of background events: 2 	Processes: QS, ES
+Run: 91210005 	Subrun: 85 	Number of background events: 2 	Processes: QS, QS
+Run: 91210002 	Subrun: 25 	Number of background events: 2 	Processes: OtherResonance, ES
+Run: 91210006 	Subrun: 100 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210006 	Subrun: 55 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210011 	Subrun: 75 	Number of background events: 2 	Processes: DIS, DIS
+Run: 91210013 	Subrun: 31 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210006 	Subrun: 109 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210005 	Subrun: 46 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210009 	Subrun: 99 	Number of background events: 2 	Processes: ES, DIS
+Run: 91210005 	Subrun: 104 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210013 	Subrun: 5 	Number of background events: 2 	Processes: QS, DeltaPPi
+Run: 91210009 	Subrun: 76 	Number of background events: 2 	Processes: OtherResonance, ES
+Run: 91210012 	Subrun: 85 	Number of background events: 2 	Processes: DIS, DIS
+Run: 91210009 	Subrun: 109 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210007 	Subrun: 94 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210008 	Subrun: 99 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210012 	Subrun: 10 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210013 	Subrun: 28 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210011 	Subrun: 16 	Number of background events: 2 	Processes: OtherResonance, DeltaPPi
+Run: 91210004 	Subrun: 6 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210010 	Subrun: 56 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210012 	Subrun: 1 	Number of background events: 2 	Processes: OtherResonance, DeltaPPi
+Run: 91210009 	Subrun: 48 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210002 	Subrun: 47 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210003 	Subrun: 6 	Number of background events: 2 	Processes: DIS, DIS
+Run: 91210011 	Subrun: 109 	Number of background events: 2 	Processes: OtherResonance, OtherResonance
+Run: 91210010 	Subrun: 6 	Number of background events: 2 	Processes: OtherResonance, OtherResonance
+Run: 91210012 	Subrun: 104 	Number of background events: 2 	Processes: QS, QS
+Run: 91210009 	Subrun: 80 	Number of background events: 2 	Processes: QS, QS
+Run: 91210002 	Subrun: 66 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210009 	Subrun: 50 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210009 	Subrun: 100 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210013 	Subrun: 53 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210013 	Subrun: 69 	Number of background events: 2 	Processes: OtherResonance, OtherResonance
+Run: 91210001 	Subrun: 24 	Number of background events: 2 	Processes: QS, QS
+Run: 91210000 	Subrun: 81 	Number of background events: 2 	Processes: OtherResonance, DeltaPPi
+Run: 91210012 	Subrun: 92 	Number of background events: 2 	Processes: DIS, DIS
+Run: 91210007 	Subrun: 14 	Number of background events: 2 	Processes: DIS, DIS
+Run: 91210011 	Subrun: 22 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210006 	Subrun: 22 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210008 	Subrun: 76 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210005 	Subrun: 63 	Number of background events: 2 	Processes: QS, QS
+Run: 91210002 	Subrun: 0 	Number of background events: 2 	Processes: DIS, DIS
+Run: 91210005 	Subrun: 83 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210009 	Subrun: 23 	Number of background events: 2 	Processes: OtherResonance, DeltaPPi
+Run: 91210011 	Subrun: 9 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210006 	Subrun: 67 	Number of background events: 2 	Processes: OtherResonance, OtherResonance
+Run: 91210002 	Subrun: 24 	Number of background events: 2 	Processes: OtherResonance, OtherResonance
+Run: 91210001 	Subrun: 48 	Number of background events: 2 	Processes: DIS, DIS
+Run: 91210006 	Subrun: 56 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210005 	Subrun: 102 	Number of background events: 2 	Processes: OtherResonance, OtherResonance
+Run: 91210001 	Subrun: 106 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210001 	Subrun: 52 	Number of background events: 2 	Processes: QS, QS
+Run: 91210009 	Subrun: 98 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210007 	Subrun: 24 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210006 	Subrun: 91 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210002 	Subrun: 35 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210008 	Subrun: 96 	Number of background events: 2 	Processes: DeltaPPi, DIS
+Run: 91210008 	Subrun: 91 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210001 	Subrun: 71 	Number of background events: 2 	Processes: OtherResonance, OtherResonance
+Run: 91210000 	Subrun: 23 	Number of background events: 2 	Processes: OtherResonance, OtherResonance
+Run: 91210008 	Subrun: 59 	Number of background events: 2 	Processes: QS, DeltaPPi
+Run: 91210009 	Subrun: 36 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210008 	Subrun: 47 	Number of background events: 2 	Processes: DIS, DIS
+Run: 91210009 	Subrun: 49 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210007 	Subrun: 82 	Number of background events: 2 	Processes: QS, QS
+Run: 91210001 	Subrun: 30 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210011 	Subrun: 108 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210005 	Subrun: 1 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210000 	Subrun: 37 	Number of background events: 2 	Processes: OtherResonance, OtherResonance
+Run: 91210012 	Subrun: 105 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210010 	Subrun: 29 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210013 	Subrun: 84 	Number of background events: 2 	Processes: QS, QS
+Run: 91210009 	Subrun: 101 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210000 	Subrun: 66 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210000 	Subrun: 80 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210007 	Subrun: 13 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210010 	Subrun: 102 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210000 	Subrun: 89 	Number of background events: 2 	Processes: DIS, DIS
+Run: 91210010 	Subrun: 51 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210002 	Subrun: 11 	Number of background events: 2 	Processes: OtherResonance, OtherResonance
+Run: 91210011 	Subrun: 62 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210005 	Subrun: 71 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210003 	Subrun: 19 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210001 	Subrun: 13 	Number of background events: 2 	Processes: OtherResonance, DeltaPPi
+Run: 91210012 	Subrun: 33 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210001 	Subrun: 46 	Number of background events: 2 	Processes: OtherResonance, OtherResonance
+Run: 91210002 	Subrun: 27 	Number of background events: 2 	Processes: OtherResonance, ES
+Run: 91210006 	Subrun: 106 	Number of background events: 2 	Processes: OtherResonance, OtherResonance
+Run: 91210005 	Subrun: 103 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210012 	Subrun: 80 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210000 	Subrun: 0 	Number of background events: 2 	Processes: OtherResonance, OtherResonance
+Run: 91210008 	Subrun: 64 	Number of background events: 2 	Processes: OtherResonance, OtherResonance
+Run: 91210000 	Subrun: 101 	Number of background events: 2 	Processes: OtherResonance, ES
+Run: 91210003 	Subrun: 41 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210011 	Subrun: 11 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210002 	Subrun: 58 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210008 	Subrun: 97 	Number of background events: 2 	Processes: DIS, DeltaPPi
+Run: 91210007 	Subrun: 66 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210006 	Subrun: 46 	Number of background events: 2 	Processes: ES, DIS
+Run: 91210010 	Subrun: 53 	Number of background events: 2 	Processes: DIS, DIS
+Run: 91210000 	Subrun: 13 	Number of background events: 2 	Processes: OtherResonance, DeltaPPi
+Run: 91210013 	Subrun: 19 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210006 	Subrun: 37 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210007 	Subrun: 84 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210010 	Subrun: 44 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210008 	Subrun: 51 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210001 	Subrun: 4 	Number of background events: 2 	Processes: DIS, DIS
+Run: 91210001 	Subrun: 36 	Number of background events: 2 	Processes: OtherResonance, ES
+Run: 91210006 	Subrun: 83 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210009 	Subrun: 41 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210013 	Subrun: 89 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210013 	Subrun: 42 	Number of background events: 2 	Processes: QS, ES
+Run: 91210006 	Subrun: 84 	Number of background events: 2 	Processes: QS, ES
+Run: 91210003 	Subrun: 23 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210000 	Subrun: 9 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210001 	Subrun: 28 	Number of background events: 2 	Processes: QS, DeltaPPi
+Run: 91210003 	Subrun: 34 	Number of background events: 2 	Processes: OtherResonance, DeltaPPi
+Run: 91210009 	Subrun: 107 	Number of background events: 2 	Processes: DIS, DIS
+Run: 91210001 	Subrun: 93 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210002 	Subrun: 60 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210013 	Subrun: 51 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210006 	Subrun: 18 	Number of background events: 2 	Processes: C, DIS
+Run: 91210012 	Subrun: 94 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210010 	Subrun: 4 	Number of background events: 2 	Processes: QS, DeltaPPi
+Run: 91210005 	Subrun: 77 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210011 	Subrun: 65 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210006 	Subrun: 16 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210002 	Subrun: 79 	Number of background events: 2 	Processes: ES, DeltaPPi
+Run: 91210001 	Subrun: 15 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210007 	Subrun: 30 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210005 	Subrun: 11 	Number of background events: 2 	Processes: QS, ES
+Run: 91210007 	Subrun: 55 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210003 	Subrun: 85 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210009 	Subrun: 25 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210006 	Subrun: 60 	Number of background events: 2 	Processes: ES, DIS
+Run: 91210005 	Subrun: 16 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210002 	Subrun: 108 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210001 	Subrun: 1 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210006 	Subrun: 105 	Number of background events: 2 	Processes: ES, ES
+Run: 91210001 	Subrun: 3 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210011 	Subrun: 70 	Number of background events: 2 	Processes: OtherResonance, OtherResonance
+Run: 91210007 	Subrun: 77 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210001 	Subrun: 104 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210004 	Subrun: 8 	Number of background events: 2 	Processes: QS, QS
+Run: 91210007 	Subrun: 98 	Number of background events: 2 	Processes: QS, QS
+Run: 91210013 	Subrun: 99 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210013 	Subrun: 7 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210010 	Subrun: 66 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210008 	Subrun: 63 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210007 	Subrun: 91 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210009 	Subrun: 93 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210001 	Subrun: 65 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210012 	Subrun: 24 	Number of background events: 2 	Processes: DeltaPPi, DIS
+Run: 91210008 	Subrun: 94 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210010 	Subrun: 59 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210003 	Subrun: 73 	Number of background events: 2 	Processes: C, DIS
+Run: 91210007 	Subrun: 2 	Number of background events: 2 	Processes: OtherResonance, DeltaPPi
+Run: 91210006 	Subrun: 45 	Number of background events: 2 	Processes: DIS, DIS
+Run: 91210011 	Subrun: 57 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210003 	Subrun: 78 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210012 	Subrun: 66 	Number of background events: 2 	Processes: QS, DeltaPPi
+Run: 91210000 	Subrun: 111 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210008 	Subrun: 56 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210007 	Subrun: 69 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210006 	Subrun: 82 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210003 	Subrun: 48 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210013 	Subrun: 88 	Number of background events: 2 	Processes: QS, DeltaPPi
+Run: 91210003 	Subrun: 47 	Number of background events: 2 	Processes: DIS, DIS
+Run: 91210004 	Subrun: 13 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210003 	Subrun: 37 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210011 	Subrun: 29 	Number of background events: 2 	Processes: DIS, DIS
+Run: 91210002 	Subrun: 68 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210000 	Subrun: 64 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210010 	Subrun: 105 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210011 	Subrun: 26 	Number of background events: 2 	Processes: QS, ES
+Run: 91210012 	Subrun: 97 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210002 	Subrun: 14 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210005 	Subrun: 99 	Number of background events: 2 	Processes: OtherResonance, OtherResonance
+Run: 91210002 	Subrun: 77 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210007 	Subrun: 53 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210001 	Subrun: 14 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210005 	Subrun: 10 	Number of background events: 2 	Processes: OtherResonance, OtherResonance
+Run: 91210009 	Subrun: 61 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210008 	Subrun: 81 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210008 	Subrun: 18 	Number of background events: 2 	Processes: ES, DIS
+Run: 91210009 	Subrun: 86 	Number of background events: 2 	Processes: DIS, DeltaPPi
+Run: 91210010 	Subrun: 8 	Number of background events: 2 	Processes: QS, ES
+Run: 91210005 	Subrun: 28 	Number of background events: 2 	Processes: DeltaPPi, DIS
+Run: 91210002 	Subrun: 100 	Number of background events: 2 	Processes: QS, QS
+Run: 91210011 	Subrun: 71 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210006 	Subrun: 9 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210001 	Subrun: 83 	Number of background events: 2 	Processes: QS, DeltaPPi
+Run: 91210008 	Subrun: 62 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210010 	Subrun: 70 	Number of background events: 2 	Processes: QS, QS
+Run: 91210001 	Subrun: 66 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210000 	Subrun: 103 	Number of background events: 2 	Processes: QS, DeltaPPi
+Run: 91210002 	Subrun: 6 	Number of background events: 2 	Processes: QS, DeltaPPi
+Run: 91210003 	Subrun: 89 	Number of background events: 2 	Processes: DeltaPPi, DIS
+Run: 91210012 	Subrun: 14 	Number of background events: 2 	Processes: QS, DeltaPPi
+Run: 91210010 	Subrun: 69 	Number of background events: 2 	Processes: DIS, DIS
+Run: 91210010 	Subrun: 91 	Number of background events: 2 	Processes: OtherResonance, ES
+Run: 91210000 	Subrun: 16 	Number of background events: 2 	Processes: QS, QS
+Run: 91210007 	Subrun: 64 	Number of background events: 2 	Processes: DIS, DIS
+Run: 91210012 	Subrun: 60 	Number of background events: 2 	Processes: DIS, DIS
+Run: 91210000 	Subrun: 20 	Number of background events: 2 	Processes: OtherResonance, OtherResonance
+Run: 91210008 	Subrun: 3 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210006 	Subrun: 101 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210000 	Subrun: 11 	Number of background events: 2 	Processes: DeltaPPi, DIS
+Run: 91210011 	Subrun: 50 	Number of background events: 2 	Processes: OtherResonance, OtherResonance
+Run: 91210012 	Subrun: 67 	Number of background events: 2 	Processes: DIS, DIS
+Run: 91210002 	Subrun: 49 	Number of background events: 2 	Processes: OtherResonance, OtherResonance
+Run: 91210010 	Subrun: 46 	Number of background events: 2 	Processes: DeltaPPi, DIS
+Run: 91210008 	Subrun: 57 	Number of background events: 2 	Processes: OtherResonance, OtherResonance
+Run: 91210008 	Subrun: 111 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210002 	Subrun: 3 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210001 	Subrun: 34 	Number of background events: 2 	Processes: OtherResonance, DeltaPPi
+Run: 91210001 	Subrun: 111 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210006 	Subrun: 81 	Number of background events: 2 	Processes: DIS, DeltaPPi
+Run: 91210009 	Subrun: 47 	Number of background events: 2 	Processes: DIS, DIS
+Run: 91210012 	Subrun: 101 	Number of background events: 2 	Processes: OtherResonance, DeltaPPi
+Run: 91210013 	Subrun: 109 	Number of background events: 2 	Processes: OtherResonance, DeltaPPi
+Run: 91210007 	Subrun: 45 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210012 	Subrun: 54 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210002 	Subrun: 8 	Number of background events: 2 	Processes: QS, QS
+Run: 91210003 	Subrun: 40 	Number of background events: 2 	Processes: QS, ES
+Run: 91210000 	Subrun: 32 	Number of background events: 2 	Processes: ES, DeltaPPi
+Run: 91210009 	Subrun: 0 	Number of background events: 2 	Processes: OtherResonance, OtherResonance
+Run: 91210002 	Subrun: 62 	Number of background events: 2 	Processes: OtherResonance, OtherResonance
+Run: 91210000 	Subrun: 92 	Number of background events: 2 	Processes: DIS, DIS
+Run: 91210013 	Subrun: 77 	Number of background events: 2 	Processes: DIS, DIS
+Run: 91210006 	Subrun: 28 	Number of background events: 2 	Processes: OtherResonance, OtherResonance
+Run: 91210012 	Subrun: 96 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210002 	Subrun: 15 	Number of background events: 2 	Processes: ES, DIS
+Run: 91210008 	Subrun: 73 	Number of background events: 2 	Processes: QS, QS
+Run: 91210003 	Subrun: 15 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210011 	Subrun: 67 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210003 	Subrun: 80 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210000 	Subrun: 55 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210005 	Subrun: 91 	Number of background events: 2 	Processes: DIS, DIS
+Run: 91210004 	Subrun: 1 	Number of background events: 2 	Processes: QS, QS
+Run: 91210011 	Subrun: 43 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210009 	Subrun: 62 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210011 	Subrun: 35 	Number of background events: 2 	Processes: OtherResonance, OtherResonance
+Run: 91210005 	Subrun: 96 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210005 	Subrun: 87 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210012 	Subrun: 6 	Number of background events: 2 	Processes: QS, DeltaPPi
+Run: 91210005 	Subrun: 22 	Number of background events: 2 	Processes: QS, DeltaPPi
+Run: 91210001 	Subrun: 45 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210006 	Subrun: 110 	Number of background events: 2 	Processes: OtherResonance, ES
+Run: 91210008 	Subrun: 19 	Number of background events: 2 	Processes: QS, QS
+Run: 91210005 	Subrun: 106 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210007 	Subrun: 79 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210000 	Subrun: 2 	Number of background events: 2 	Processes: OtherResonance, DeltaPPi
+Run: 91210007 	Subrun: 28 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210013 	Subrun: 21 	Number of background events: 2 	Processes: DIS, DIS
+Run: 91210009 	Subrun: 79 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210002 	Subrun: 36 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210008 	Subrun: 61 	Number of background events: 2 	Processes: QS, QS
+Run: 91210003 	Subrun: 18 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210001 	Subrun: 67 	Number of background events: 2 	Processes: OtherResonance, OtherResonance
+Run: 91210009 	Subrun: 9 	Number of background events: 2 	Processes: QS, QS
+Run: 91210010 	Subrun: 97 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210011 	Subrun: 14 	Number of background events: 2 	Processes: DIS, DIS
+Run: 91210003 	Subrun: 99 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210010 	Subrun: 90 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210002 	Subrun: 52 	Number of background events: 2 	Processes: QS, QS
+Run: 91210003 	Subrun: 21 	Number of background events: 2 	Processes: QS, ES
+Run: 91210000 	Subrun: 27 	Number of background events: 2 	Processes: OtherResonance, OtherResonance
+Run: 91210007 	Subrun: 88 	Number of background events: 2 	Processes: QS, QS
+Run: 91210009 	Subrun: 39 	Number of background events: 2 	Processes: OtherResonance, OtherResonance
+Run: 91210002 	Subrun: 48 	Number of background events: 2 	Processes: QS, QS
+Run: 91210002 	Subrun: 99 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210007 	Subrun: 48 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210009 	Subrun: 32 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210011 	Subrun: 58 	Number of background events: 2 	Processes: QS, QS
+Run: 91210001 	Subrun: 33 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210003 	Subrun: 16 	Number of background events: 2 	Processes: OtherResonance, DeltaPPi
+Run: 91210013 	Subrun: 108 	Number of background events: 2 	Processes: OtherResonance, OtherResonance
+Run: 91210007 	Subrun: 46 	Number of background events: 2 	Processes: DeltaPPi, DIS
+Run: 91210013 	Subrun: 83 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210013 	Subrun: 101 	Number of background events: 2 	Processes: QS, QS
+Run: 91210014 	Subrun: 3 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210001 	Subrun: 22 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210010 	Subrun: 108 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210009 	Subrun: 57 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210013 	Subrun: 70 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210011 	Subrun: 20 	Number of background events: 2 	Processes: OtherResonance, DeltaPPi
+Run: 91210010 	Subrun: 20 	Number of background events: 2 	Processes: DIS, DeltaPPi
+Run: 91210007 	Subrun: 1 	Number of background events: 2 	Processes: OtherResonance, OtherResonance
+Run: 91210003 	Subrun: 13 	Number of background events: 2 	Processes: QS, ES
+Run: 91210007 	Subrun: 58 	Number of background events: 2 	Processes: OtherResonance, OtherResonance
+Run: 91210003 	Subrun: 108 	Number of background events: 2 	Processes: DIS, DIS
+Run: 91210008 	Subrun: 26 	Number of background events: 2 	Processes: OtherResonance, OtherResonance
+Run: 91210010 	Subrun: 110 	Number of background events: 2 	Processes: QS, QS
+Run: 91210005 	Subrun: 61 	Number of background events: 2 	Processes: QS, DeltaPPi
+Run: 91210009 	Subrun: 64 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210011 	Subrun: 33 	Number of background events: 2 	Processes: OtherResonance, DeltaPPi
+Run: 91210007 	Subrun: 51 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210003 	Subrun: 3 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210008 	Subrun: 0 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210005 	Subrun: 32 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210005 	Subrun: 23 	Number of background events: 2 	Processes: DIS, DIS
+Run: 91210013 	Subrun: 110 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210007 	Subrun: 111 	Number of background events: 2 	Processes: OtherResonance, OtherResonance
+Run: 91210002 	Subrun: 87 	Number of background events: 2 	Processes: OtherResonance, DeltaPPi
+Run: 91210006 	Subrun: 53 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210002 	Subrun: 80 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210003 	Subrun: 58 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210007 	Subrun: 78 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210001 	Subrun: 103 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210011 	Subrun: 7 	Number of background events: 2 	Processes: QS, ES
+Run: 91210008 	Subrun: 67 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210007 	Subrun: 29 	Number of background events: 2 	Processes: DIS, DIS
+Run: 91210006 	Subrun: 7 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210001 	Subrun: 88 	Number of background events: 2 	Processes: QS, DIS
+Run: 91210010 	Subrun: 65 	Number of background events: 2 	Processes: OtherResonance, DIS
+Run: 91210013 	Subrun: 20 	Number of background events: 2 	Processes: DIS, DIS
+Run: 91210000 	Subrun: 104 	Number of background events: 2 	Processes: DIS, DIS
+Run: 91210013 	Subrun: 97 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210001 	Subrun: 60 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210011 	Subrun: 15 	Number of background events: 2 	Processes: OtherResonance, OtherResonance
+Run: 91210013 	Subrun: 13 	Number of background events: 2 	Processes: QS, OtherResonance
+Run: 91210003 	Subrun: 27 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210004 	Subrun: 2 	Number of background events: 1 	Processes: DIS
+Run: 91210001 	Subrun: 74 	Number of background events: 1 	Processes: DIS
+Run: 91210003 	Subrun: 110 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210006 	Subrun: 87 	Number of background events: 1 	Processes: QS
+Run: 91210011 	Subrun: 88 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210005 	Subrun: 5 	Number of background events: 1 	Processes: QS
+Run: 91210006 	Subrun: 88 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210009 	Subrun: 58 	Number of background events: 1 	Processes: QS
+Run: 91210006 	Subrun: 71 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210003 	Subrun: 42 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210012 	Subrun: 39 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210010 	Subrun: 100 	Number of background events: 1 	Processes: ES
+Run: 91210003 	Subrun: 12 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210008 	Subrun: 15 	Number of background events: 1 	Processes: QS
+Run: 91210006 	Subrun: 13 	Number of background events: 1 	Processes: ES
+Run: 91210001 	Subrun: 18 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210005 	Subrun: 62 	Number of background events: 1 	Processes: DeltaPPi
+Run: 91210007 	Subrun: 50 	Number of background events: 1 	Processes: DIS
+Run: 91210010 	Subrun: 19 	Number of background events: 1 	Processes: DeltaPPi
+Run: 91210005 	Subrun: 25 	Number of background events: 1 	Processes: QS
+Run: 91210006 	Subrun: 64 	Number of background events: 1 	Processes: QS
+Run: 91210001 	Subrun: 100 	Number of background events: 1 	Processes: DIS
+Run: 91210008 	Subrun: 66 	Number of background events: 1 	Processes: DIS
+Run: 91210006 	Subrun: 90 	Number of background events: 1 	Processes: DIS
+Run: 91210005 	Subrun: 41 	Number of background events: 1 	Processes: QS
+Run: 91210011 	Subrun: 18 	Number of background events: 1 	Processes: ES
+Run: 91210003 	Subrun: 50 	Number of background events: 1 	Processes: DIS
+Run: 91210009 	Subrun: 96 	Number of background events: 1 	Processes: DIS
+Run: 91210010 	Subrun: 31 	Number of background events: 1 	Processes: DeltaPPi
+Run: 91210000 	Subrun: 107 	Number of background events: 1 	Processes: ES
+Run: 91210001 	Subrun: 61 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210012 	Subrun: 42 	Number of background events: 1 	Processes: DIS
+Run: 91210009 	Subrun: 95 	Number of background events: 1 	Processes: QS
+Run: 91210012 	Subrun: 19 	Number of background events: 1 	Processes: DIS
+Run: 91210013 	Subrun: 10 	Number of background events: 1 	Processes: DIS
+Run: 91210011 	Subrun: 54 	Number of background events: 1 	Processes: QS
+Run: 91210000 	Subrun: 25 	Number of background events: 1 	Processes: QS
+Run: 91210006 	Subrun: 31 	Number of background events: 1 	Processes: QS
+Run: 91210013 	Subrun: 3 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210005 	Subrun: 109 	Number of background events: 1 	Processes: DeltaPPi
+Run: 91210004 	Subrun: 17 	Number of background events: 1 	Processes: DIS
+Run: 91210013 	Subrun: 103 	Number of background events: 1 	Processes: QS
+Run: 91210000 	Subrun: 79 	Number of background events: 1 	Processes: QS
+Run: 91210000 	Subrun: 70 	Number of background events: 1 	Processes: DIS
+Run: 91210013 	Subrun: 72 	Number of background events: 1 	Processes: ES
+Run: 91210008 	Subrun: 23 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210007 	Subrun: 39 	Number of background events: 1 	Processes: ES
+Run: 91210002 	Subrun: 10 	Number of background events: 1 	Processes: QS
+Run: 91210008 	Subrun: 12 	Number of background events: 1 	Processes: DIS
+Run: 91210010 	Subrun: 88 	Number of background events: 1 	Processes: QS
+Run: 91210013 	Subrun: 79 	Number of background events: 1 	Processes: DIS
+Run: 91210007 	Subrun: 57 	Number of background events: 1 	Processes: DIS
+Run: 91210010 	Subrun: 18 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210005 	Subrun: 26 	Number of background events: 1 	Processes: QS
+Run: 91210006 	Subrun: 107 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210002 	Subrun: 103 	Number of background events: 1 	Processes: DIS
+Run: 91210013 	Subrun: 32 	Number of background events: 1 	Processes: DIS
+Run: 91210012 	Subrun: 83 	Number of background events: 1 	Processes: DIS
+Run: 91210009 	Subrun: 11 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210010 	Subrun: 30 	Number of background events: 1 	Processes: QS
+Run: 91210010 	Subrun: 63 	Number of background events: 1 	Processes: QS
+Run: 91210011 	Subrun: 39 	Number of background events: 1 	Processes: DIS
+Run: 91210006 	Subrun: 98 	Number of background events: 1 	Processes: DIS
+Run: 91210013 	Subrun: 95 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210012 	Subrun: 18 	Number of background events: 1 	Processes: QS
+Run: 91210012 	Subrun: 28 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210008 	Subrun: 49 	Number of background events: 1 	Processes: DIS
+Run: 91210007 	Subrun: 60 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210000 	Subrun: 24 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210011 	Subrun: 48 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210011 	Subrun: 85 	Number of background events: 1 	Processes: DIS
+Run: 91210012 	Subrun: 102 	Number of background events: 1 	Processes: DIS
+Run: 91210010 	Subrun: 2 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210004 	Subrun: 9 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210001 	Subrun: 39 	Number of background events: 1 	Processes: QS
+Run: 91210009 	Subrun: 106 	Number of background events: 1 	Processes: QS
+Run: 91210001 	Subrun: 99 	Number of background events: 1 	Processes: DIS
+Run: 91210001 	Subrun: 25 	Number of background events: 1 	Processes: DeltaPPi
+Run: 91210011 	Subrun: 24 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210012 	Subrun: 95 	Number of background events: 1 	Processes: QS
+Run: 91210008 	Subrun: 106 	Number of background events: 1 	Processes: DIS
+Run: 91210008 	Subrun: 70 	Number of background events: 1 	Processes: QS
+Run: 91210005 	Subrun: 8 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210000 	Subrun: 56 	Number of background events: 1 	Processes: DIS
+Run: 91210002 	Subrun: 78 	Number of background events: 1 	Processes: DIS
+Run: 91210005 	Subrun: 64 	Number of background events: 1 	Processes: DIS
+Run: 91210000 	Subrun: 49 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210003 	Subrun: 84 	Number of background events: 1 	Processes: QS
+Run: 91210000 	Subrun: 59 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210009 	Subrun: 88 	Number of background events: 1 	Processes: QS
+Run: 91210007 	Subrun: 6 	Number of background events: 1 	Processes: DIS
+Run: 91210011 	Subrun: 78 	Number of background events: 1 	Processes: DIS
+Run: 91210005 	Subrun: 108 	Number of background events: 1 	Processes: DIS
+Run: 91210012 	Subrun: 34 	Number of background events: 1 	Processes: ES
+Run: 91210001 	Subrun: 49 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210002 	Subrun: 102 	Number of background events: 1 	Processes: QS
+Run: 91210012 	Subrun: 70 	Number of background events: 1 	Processes: DIS
+Run: 91210007 	Subrun: 74 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210001 	Subrun: 85 	Number of background events: 1 	Processes: DIS
+Run: 91210001 	Subrun: 107 	Number of background events: 1 	Processes: QS
+Run: 91210005 	Subrun: 44 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210001 	Subrun: 55 	Number of background events: 1 	Processes: DIS
+Run: 91210009 	Subrun: 74 	Number of background events: 1 	Processes: DIS
+Run: 91210001 	Subrun: 109 	Number of background events: 1 	Processes: QS
+Run: 91210002 	Subrun: 32 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210006 	Subrun: 99 	Number of background events: 1 	Processes: DeltaPPi
+Run: 91210010 	Subrun: 93 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210000 	Subrun: 18 	Number of background events: 1 	Processes: QS
+Run: 91210001 	Subrun: 70 	Number of background events: 1 	Processes: QS
+Run: 91210013 	Subrun: 16 	Number of background events: 1 	Processes: QS
+Run: 91210012 	Subrun: 29 	Number of background events: 1 	Processes: QS
+Run: 91210003 	Subrun: 79 	Number of background events: 1 	Processes: QS
+Run: 91210012 	Subrun: 35 	Number of background events: 1 	Processes: DeltaPPi
+Run: 91210002 	Subrun: 9 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210009 	Subrun: 35 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210013 	Subrun: 45 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210011 	Subrun: 84 	Number of background events: 1 	Processes: DIS
+Run: 91210011 	Subrun: 106 	Number of background events: 1 	Processes: DIS
+Run: 91210006 	Subrun: 2 	Number of background events: 1 	Processes: QS
+Run: 91210013 	Subrun: 87 	Number of background events: 1 	Processes: QS
+Run: 91210009 	Subrun: 52 	Number of background events: 1 	Processes: DIS
+Run: 91210008 	Subrun: 108 	Number of background events: 1 	Processes: QS
+Run: 91210000 	Subrun: 94 	Number of background events: 1 	Processes: DIS
+Run: 91210001 	Subrun: 26 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210008 	Subrun: 101 	Number of background events: 1 	Processes: QS
+Run: 91210006 	Subrun: 111 	Number of background events: 1 	Processes: DIS
+Run: 91210006 	Subrun: 27 	Number of background events: 1 	Processes: QS
+Run: 91210008 	Subrun: 89 	Number of background events: 1 	Processes: DIS
+Run: 91210008 	Subrun: 10 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210005 	Subrun: 65 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210009 	Subrun: 60 	Number of background events: 1 	Processes: QS
+Run: 91210013 	Subrun: 4 	Number of background events: 1 	Processes: DIS
+Run: 91210011 	Subrun: 91 	Number of background events: 1 	Processes: DIS
+Run: 91210008 	Subrun: 5 	Number of background events: 1 	Processes: DIS
+Run: 91210005 	Subrun: 100 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210012 	Subrun: 81 	Number of background events: 1 	Processes: DIS
+Run: 91210011 	Subrun: 110 	Number of background events: 1 	Processes: DIS
+Run: 91210002 	Subrun: 59 	Number of background events: 1 	Processes: DIS
+Run: 91210003 	Subrun: 7 	Number of background events: 1 	Processes: QS
+Run: 91210002 	Subrun: 57 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210010 	Subrun: 45 	Number of background events: 1 	Processes: DIS
+Run: 91210011 	Subrun: 82 	Number of background events: 1 	Processes: DIS
+Run: 91210002 	Subrun: 96 	Number of background events: 1 	Processes: DIS
+Run: 91210001 	Subrun: 2 	Number of background events: 1 	Processes: DIS
+Run: 91210013 	Subrun: 44 	Number of background events: 1 	Processes: DIS
+Run: 91210002 	Subrun: 44 	Number of background events: 1 	Processes: QS
+Run: 91210000 	Subrun: 5 	Number of background events: 1 	Processes: DeltaPPi
+Run: 91210012 	Subrun: 55 	Number of background events: 1 	Processes: DIS
+Run: 91210013 	Subrun: 81 	Number of background events: 1 	Processes: DIS
+Run: 91210012 	Subrun: 99 	Number of background events: 1 	Processes: ES
+Run: 91210009 	Subrun: 104 	Number of background events: 1 	Processes: DIS
+Run: 91210001 	Subrun: 20 	Number of background events: 1 	Processes: QS
+Run: 91210009 	Subrun: 6 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210001 	Subrun: 27 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210010 	Subrun: 22 	Number of background events: 1 	Processes: QS
+Run: 91210008 	Subrun: 100 	Number of background events: 1 	Processes: QS
+Run: 91210007 	Subrun: 11 	Number of background events: 1 	Processes: DIS
+Run: 91210011 	Subrun: 2 	Number of background events: 1 	Processes: DIS
+Run: 91210006 	Subrun: 26 	Number of background events: 1 	Processes: DIS
+Run: 91210000 	Subrun: 42 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210008 	Subrun: 11 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210008 	Subrun: 79 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210005 	Subrun: 66 	Number of background events: 1 	Processes: DIS
+Run: 91210009 	Subrun: 26 	Number of background events: 1 	Processes: DIS
+Run: 91210012 	Subrun: 31 	Number of background events: 1 	Processes: DIS
+Run: 91210011 	Subrun: 76 	Number of background events: 1 	Processes: QS
+Run: 91210012 	Subrun: 75 	Number of background events: 1 	Processes: DIS
+Run: 91210009 	Subrun: 81 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210002 	Subrun: 5 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210001 	Subrun: 105 	Number of background events: 1 	Processes: DIS
+Run: 91210010 	Subrun: 34 	Number of background events: 1 	Processes: DIS
+Run: 91210013 	Subrun: 22 	Number of background events: 1 	Processes: DIS
+Run: 91210006 	Subrun: 94 	Number of background events: 1 	Processes: QS
+Run: 91210012 	Subrun: 25 	Number of background events: 1 	Processes: DIS
+Run: 91210002 	Subrun: 30 	Number of background events: 1 	Processes: QS
+Run: 91210010 	Subrun: 98 	Number of background events: 1 	Processes: DIS
+Run: 91210010 	Subrun: 87 	Number of background events: 1 	Processes: QS
+Run: 91210001 	Subrun: 76 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210003 	Subrun: 72 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210003 	Subrun: 9 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210003 	Subrun: 94 	Number of background events: 1 	Processes: QS
+Run: 91210005 	Subrun: 57 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210002 	Subrun: 42 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210002 	Subrun: 97 	Number of background events: 1 	Processes: DIS
+Run: 91210013 	Subrun: 47 	Number of background events: 1 	Processes: DeltaPPi
+Run: 91210002 	Subrun: 65 	Number of background events: 1 	Processes: DIS
+Run: 91210004 	Subrun: 10 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210013 	Subrun: 54 	Number of background events: 1 	Processes: DIS
+Run: 91210000 	Subrun: 84 	Number of background events: 1 	Processes: QS
+Run: 91210011 	Subrun: 28 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210007 	Subrun: 0 	Number of background events: 1 	Processes: QS
+Run: 91210011 	Subrun: 69 	Number of background events: 1 	Processes: QS
+Run: 91210010 	Subrun: 106 	Number of background events: 1 	Processes: QS
+Run: 91210011 	Subrun: 21 	Number of background events: 1 	Processes: DIS
+Run: 91210010 	Subrun: 23 	Number of background events: 1 	Processes: QS
+Run: 91210008 	Subrun: 103 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210007 	Subrun: 10 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210002 	Subrun: 74 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210007 	Subrun: 52 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210009 	Subrun: 20 	Number of background events: 1 	Processes: ES
+Run: 91210007 	Subrun: 109 	Number of background events: 1 	Processes: DIS
+Run: 91210003 	Subrun: 87 	Number of background events: 1 	Processes: DIS
+Run: 91210005 	Subrun: 33 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210009 	Subrun: 27 	Number of background events: 1 	Processes: QS
+Run: 91210013 	Subrun: 38 	Number of background events: 1 	Processes: DIS
+Run: 91210007 	Subrun: 70 	Number of background events: 1 	Processes: DIS
+Run: 91210001 	Subrun: 102 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210007 	Subrun: 96 	Number of background events: 1 	Processes: DeltaPPi
+Run: 91210003 	Subrun: 64 	Number of background events: 1 	Processes: QS
+Run: 91210010 	Subrun: 64 	Number of background events: 1 	Processes: QS
+Run: 91210010 	Subrun: 73 	Number of background events: 1 	Processes: DIS
+Run: 91210012 	Subrun: 17 	Number of background events: 1 	Processes: DIS
+Run: 91210013 	Subrun: 12 	Number of background events: 1 	Processes: QS
+Run: 91210010 	Subrun: 5 	Number of background events: 1 	Processes: DIS
+Run: 91210003 	Subrun: 92 	Number of background events: 1 	Processes: QS
+Run: 91210010 	Subrun: 40 	Number of background events: 1 	Processes: DIS
+Run: 91210006 	Subrun: 43 	Number of background events: 1 	Processes: ES
+Run: 91210000 	Subrun: 8 	Number of background events: 1 	Processes: QS
+Run: 91210003 	Subrun: 24 	Number of background events: 1 	Processes: QS
+Run: 91210013 	Subrun: 49 	Number of background events: 1 	Processes: DIS
+Run: 91210005 	Subrun: 56 	Number of background events: 1 	Processes: QS
+Run: 91210011 	Subrun: 102 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210013 	Subrun: 46 	Number of background events: 1 	Processes: QS
+Run: 91210009 	Subrun: 111 	Number of background events: 1 	Processes: QS
+Run: 91210009 	Subrun: 44 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210006 	Subrun: 79 	Number of background events: 1 	Processes: DIS
+Run: 91210009 	Subrun: 59 	Number of background events: 1 	Processes: DIS
+Run: 91210001 	Subrun: 97 	Number of background events: 1 	Processes: ES
+Run: 91210004 	Subrun: 11 	Number of background events: 1 	Processes: QS
+Run: 91210000 	Subrun: 93 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210011 	Subrun: 68 	Number of background events: 1 	Processes: DIS
+Run: 91210002 	Subrun: 16 	Number of background events: 1 	Processes: QS
+Run: 91210011 	Subrun: 61 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210008 	Subrun: 4 	Number of background events: 1 	Processes: DIS
+Run: 91210002 	Subrun: 75 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210006 	Subrun: 20 	Number of background events: 1 	Processes: DIS
+Run: 91210007 	Subrun: 34 	Number of background events: 1 	Processes: QS
+Run: 91210007 	Subrun: 18 	Number of background events: 1 	Processes: ES
+Run: 91210001 	Subrun: 16 	Number of background events: 1 	Processes: ES
+Run: 91210005 	Subrun: 68 	Number of background events: 1 	Processes: QS
+Run: 91210012 	Subrun: 46 	Number of background events: 1 	Processes: DIS
+Run: 91210013 	Subrun: 39 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210011 	Subrun: 94 	Number of background events: 1 	Processes: QS
+Run: 91210012 	Subrun: 41 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210002 	Subrun: 105 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210012 	Subrun: 4 	Number of background events: 1 	Processes: QS
+Run: 91210001 	Subrun: 50 	Number of background events: 1 	Processes: DIS
+Run: 91210007 	Subrun: 26 	Number of background events: 1 	Processes: QS
+Run: 91210006 	Subrun: 5 	Number of background events: 1 	Processes: DIS
+Run: 91210005 	Subrun: 40 	Number of background events: 1 	Processes: DIS
+Run: 91210001 	Subrun: 69 	Number of background events: 1 	Processes: OtherResonance
+Run: 91210012 	Subrun: 11 	Number of background events: 1 	Processes: DeltaPPi
+Run: 91210013 	Subrun: 29 	Number of background events: 1 	Processes: QS

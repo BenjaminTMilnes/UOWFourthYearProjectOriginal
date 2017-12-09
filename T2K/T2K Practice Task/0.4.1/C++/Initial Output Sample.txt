@@ -1,0 +1,22 @@
+Got input file(s).
+Number of Vertices in Event = 4
+nu:14;tgt:1000260560;N:2112;proc:Weak[CC],QES;
+Number of particles in event listing : 9
+nu:14;tgt:1000060120;N:2112;proc:Weak[CC],QES;
+Number of particles in event listing : 9
+nu:14;tgt:1000260560;N:2112;proc:Weak[CC],QES;
+Number of particles in event listing : 11
+nu:-14;tgt:1000260560;N:2112;q:1(v);proc:Weak[NC],DIS;
+Number of particles in event listing : 16
+Number of Vertices in Event = 2
+nu:14;tgt:1000260560;N:2212;proc:Weak[NC],QES;
+Number of particles in event listing : 11
+nu:14;tgt:1000260560;N:2212;proc:Weak[NC],QES;
+Number of particles in event listing : 13
+Number of Vertices in Event = 3
+nu:14;tgt:1000260560;N:2112;proc:Weak[CC],QES;
+Number of particles in event listing : 9
+nu:14;tgt:1000260560;N:2112;proc:Weak[NC],QES;
+Number of particles in event listing : 11
+nu:14;tgt:1000260560;N:2112;proc:Weak[CC],QES;
+Number of particles in event listing : 9
